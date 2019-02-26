@@ -1,0 +1,431 @@
+TRMM-0160_tile_M:
+  file: AfricaSubSahara_TRMM-0160_tile_M.xml
+  html: AfricaSubSahara_TRMM-0160_tile_M.html
+  id: TRMM-0160_tile_M
+  author: Thomas Gumbricht
+  caption: null
+  credit: null
+  source: null
+
+TRMM-0161_tile_A:
+  file: AfricaSubSahara_TRMM-0161_tile_A.xml
+  html: AfricaSubSahara_TRMM-0161_tile_A.html
+  id: TRMM-0161_tile_A
+  author: Thomas Gumbricht
+  caption: null
+  credit: null
+  source: null
+
+TRMM-0310_trend_A_1998-2017:
+  file: AfricaSubSahara_TRMM-0310_trend_A_1998-2017.xml
+  html: AfricaSubSahara_TRMM-0310_trend_A_1998-2017.html
+  id: TRMM-0310_trend_A_1998-2017
+  author: Thomas Gumbricht
+  caption: null
+  credit: null
+  source: null
+
+TRMM-0310_trend_A_2003-2016:
+  file: AfricaSubSahara_TRMM-0310_trend_A_2003-2016.xml
+  html: AfricaSubSahara_TRMM-0310_trend_A_2003-2016.html
+  id: TRMM-0310_trend_A_2003-2016
+  author: Thomas Gumbricht
+  caption: null
+  credit: null
+  source: null
+
+TRMM-0320_changes_A_1998-2017:
+  file: AfricaSubSahara_TRMM-0320_changes_A_1998-2017.xml
+  html: AfricaSubSahara_TRMM-0320_changes_A_1998-2017.html
+  id: TRMM-0320_changes_A_1998-2017
+  author: Thomas Gumbricht
+  caption: null
+  credit: null
+  source: null
+
+TRMM-0320_changes_A_2003-2016:
+  file: AfricaSubSahara_TRMM-0320_changes_A_2003-2016.xml
+  html: AfricaSubSahara_TRMM-0320_changes_A_2003-2016.html
+  id: TRMM-0320_changes_A_2003-2016
+  author: Thomas Gumbricht
+  caption: null
+  credit: null
+  source: null
+
+TRMM-0380_index-x-corr_M:
+  file: AfricaSubSahara_TRMM-0380_index-x-corr_M.xml
+  html: AfricaSubSahara_TRMM-0380_index-x-corr_M.html
+  id: TRMM-0380_index-x-corr_M
+  author: Thomas Gumbricht
+  caption: null
+  credit: null
+  source: null
+
+TRMM-0610_mosaic_M:
+  file: AfricaSubSahara_TRMM-0610_mosaic_M.xml
+  html: AfricaSubSahara_TRMM-0610_mosaic_M.html
+  id: TRMM-0610_mosaic_M
+  author: Thomas Gumbricht
+  caption: null
+  credit: null
+  source: null
+
+TRMM-0620_mosaic_index-x-corr_M:
+  file: AfricaSubSahara_TRMM-0620_mosaic_index-x-corr_M.xml
+  html: AfricaSubSahara_TRMM-0620_mosaic_index-x-corr_M.html
+  id: TRMM-0620_mosaic_index-x-corr_M
+  author: Thomas Gumbricht
+  caption: null
+  credit: null
+  source: null
+
+TRMM-0630_mosaic_timespanA_1998-2017:
+  file: AfricaSubSahara_TRMM-0630_mosaic_timespanA_1998-2017.xml
+  html: AfricaSubSahara_TRMM-0630_mosaic_timespanA_1998-2017.html
+  id: TRMM-0630_mosaic_timespanA_1998-2017
+  author: Thomas Gumbricht
+  caption: null
+  credit: null
+  source: null
+
+TRMM-0630_mosaic_timespanA_2003-2016:
+  file: AfricaSubSahara_TRMM-0630_mosaic_timespanA_2003-2016.xml
+  html: AfricaSubSahara_TRMM-0630_mosaic_timespanA_2003-2016.html
+  id: TRMM-0630_mosaic_timespanA_2003-2016
+  author: Thomas Gumbricht
+  caption: null
+  credit: null
+  source: null
+
+TRMM-0900_ExporttoByte_M:
+  file: AfricaSubSahara_TRMM-0900_ExporttoByte_M.xml
+  html: AfricaSubSahara_TRMM-0900_ExporttoByte_M.html
+  id: TRMM-0900_ExporttoByte_M
+  author: Thomas Gumbricht
+  caption: null
+  credit: null
+  source: null
+
+TRMM-0910_ExporttoByte_timespanA_1998-2017:
+  file: AfricaSubSahara_TRMM-0910_ExporttoByte_timespanA_1998-2017.xml
+  html: AfricaSubSahara_TRMM-0910_ExporttoByte_timespanA_1998-2017.html
+  id: TRMM-0910_ExporttoByte_timespanA_1998-2017
+  author: Thomas Gumbricht
+  caption: null
+  credit: null
+  source: null
+
+TRMM-0910_ExporttoByte_timespanA_2003-2016:
+  file: AfricaSubSahara_TRMM-0910_ExporttoByte_timespanA_2003-2016.xml
+  html: AfricaSubSahara_TRMM-0910_ExporttoByte_timespanA_2003-2016.html
+  id: TRMM-0910_ExporttoByte_timespanA_2003-2016
+  author: Thomas Gumbricht
+  caption: null
+  credit: null
+  source: null
+
+TRMM-0920_ExporttoByte_crosscorr:
+  file: AfricaSubSahara_TRMM-0920_ExporttoByte_crosscorr.xml
+  html: AfricaSubSahara_TRMM-0920_ExporttoByte_crosscorr.html
+  id: TRMM-0920_ExporttoByte_crosscorr
+  author: Thomas Gumbricht
+  caption: null
+  credit: null
+  source: null
+
+TRMM-0950_movieframes_M:
+  file: AfricaSubSahara_TRMM-0950_movieframes_M.xml
+  html: AfricaSubSahara_TRMM-0950_movieframes_M.html
+  id: TRMM-0950_movieframes_M
+  author: Thomas Gumbricht
+  caption: null
+  credit: null
+  source: null
+
+TRMM-0960_movieclock_M:
+  file: AfricaSubSahara_TRMM-0960_movieclock_M.xml
+  html: AfricaSubSahara_TRMM-0960_movieclock_M.html
+  id: TRMM-0960_movieclock_M
+  author: Thomas Gumbricht
+  caption: null
+  credit: null
+  source: null
+
+VWB-0160_tile_M:
+  file: AfricaSubSahara_VWB-0160_tile_M.xml
+  html: AfricaSubSahara_VWB-0160_tile_M.html
+  id: VWB-0160_tile_M
+  author: Thomas Gumbricht
+  caption: null
+  credit: null
+  source: null
+
+VWB-0161_tile_A:
+  file: AfricaSubSahara_VWB-0161_tile_A.xml
+  html: AfricaSubSahara_VWB-0161_tile_A.html
+  id: VWB-0161_tile_A
+  author: Thomas Gumbricht
+  caption: null
+  credit: null
+  source: null
+
+VWB-0310_trend_A_1998-2017:
+  file: AfricaSubSahara_VWB-0310_trend_A_1998-2017.xml
+  html: AfricaSubSahara_VWB-0310_trend_A_1998-2017.html
+  id: VWB-0310_trend_A_1998-2017
+  author: Thomas Gumbricht
+  caption: null
+  credit: null
+  source: null
+
+VWB-0310_trend_A_2003-2016:
+  file: AfricaSubSahara_VWB-0310_trend_A_2003-2016.xml
+  html: AfricaSubSahara_VWB-0310_trend_A_2003-2016.html
+  id: VWB-0310_trend_A_2003-2016
+  author: Thomas Gumbricht
+  caption: null
+  credit: null
+  source: null
+
+VWB-0320_changes_A_1998-2017:
+  file: AfricaSubSahara_VWB-0320_changes_A_1998-2017.xml
+  html: AfricaSubSahara_VWB-0320_changes_A_1998-2017.html
+  id: VWB-0320_changes_A_1998-2017
+  author: Thomas Gumbricht
+  caption: null
+  credit: null
+  source: null
+
+VWB-0320_changes_A_2003-2016:
+  file: AfricaSubSahara_VWB-0320_changes_A_2003-2016.xml
+  html: AfricaSubSahara_VWB-0320_changes_A_2003-2016.html
+  id: VWB-0320_changes_A_2003-2016
+  author: Thomas Gumbricht
+  caption: null
+  credit: null
+  source: null
+
+VWB-0610_mosaic_M:
+  file: AfricaSubSahara_VWB-0610_mosaic_M.xml
+  html: AfricaSubSahara_VWB-0610_mosaic_M.html
+  id: VWB-0610_mosaic_M
+  author: Thomas Gumbricht
+  caption: null
+  credit: null
+  source: null
+
+VWB-0630_mosaic_timespanA_1998-2017:
+  file: AfricaSubSahara_VWB-0630_mosaic_timespanA_1998-2017.xml
+  html: AfricaSubSahara_VWB-0630_mosaic_timespanA_1998-2017.html
+  id: VWB-0630_mosaic_timespanA_1998-2017
+  author: Thomas Gumbricht
+  caption: null
+  credit: null
+  source: null
+
+VWB-0630_mosaic_timespanA_2003-2016:
+  file: AfricaSubSahara_VWB-0630_mosaic_timespanA_2003-2016.xml
+  html: AfricaSubSahara_VWB-0630_mosaic_timespanA_2003-2016.html
+  id: VWB-0630_mosaic_timespanA_2003-2016
+  author: Thomas Gumbricht
+  caption: null
+  credit: null
+  source: null
+
+VWB-0900_ExporttoByte_M:
+  file: AfricaSubSahara_VWB-0900_ExporttoByte_M.xml
+  html: AfricaSubSahara_VWB-0900_ExporttoByte_M.html
+  id: VWB-0900_ExporttoByte_M
+  author: Thomas Gumbricht
+  caption: null
+  credit: null
+  source: null
+
+VWB-0910_ExporttoByte_timespanA_1998-2017:
+  file: AfricaSubSahara_VWB-0910_ExporttoByte_timespanA_1998-2017.xml
+  html: AfricaSubSahara_VWB-0910_ExporttoByte_timespanA_1998-2017.html
+  id: VWB-0910_ExporttoByte_timespanA_1998-2017
+  author: Thomas Gumbricht
+  caption: null
+  credit: null
+  source: null
+
+VWB-0910_ExporttoByte_timespanA_2003-2016:
+  file: AfricaSubSahara_VWB-0910_ExporttoByte_timespanA_2003-2016.xml
+  html: AfricaSubSahara_VWB-0910_ExporttoByte_timespanA_2003-2016.html
+  id: VWB-0910_ExporttoByte_timespanA_2003-2016
+  author: Thomas Gumbricht
+  caption: null
+  credit: null
+  source: null
+
+VWB-0950_movieframes_M:
+  file: AfricaSubSahara_VWB-0950_movieframes_M.xml
+  html: AfricaSubSahara_VWB-0950_movieframes_M.html
+  id: VWB-0950_movieframes_M
+  author: Thomas Gumbricht
+  caption: null
+  credit: null
+  source: null
+
+VWB-0960_movieclock_M:
+  file: AfricaSubSahara_VWB-0960_movieclock_M.xml
+  html: AfricaSubSahara_VWB-0960_movieclock_M.html
+  id: VWB-0960_movieclock_M
+  author: Thomas Gumbricht
+  caption: null
+  credit: null
+  source: null
+
+GRACE-0160_tile_M:
+  file: AfricaSubSahara_GRACE-0160_tile_M.xml
+  html: AfricaSubSahara_GRACE-0160_tile_M.html
+  id: GRACE-0160_tile_M
+  author: Thomas Gumbricht
+  caption: null
+  credit: null
+  source: null
+
+GRACE-0160_tile_A:
+  file: AfricaSubSahara_GRACE-0160_tile_A.xml
+  html: AfricaSubSahara_GRACE-0160_tile_A.html
+  id: GRACE-0160_tile_A
+  author: Thomas Gumbricht
+  caption: null
+  credit: null
+  source: null
+
+GRACE-0160_tile_M:
+  file: AfricaSubSahara_GRACE-0160_tile_M.xml
+  html: AfricaSubSahara_GRACE-0160_tile_M.html
+  id: GRACE-0160_tile_M
+  author: Thomas Gumbricht
+  caption: null
+  credit: null
+  source: null
+
+GRACE-0161_tile_A:
+  file: AfricaSubSahara_GRACE-0161_tile_A.xml
+  html: AfricaSubSahara_GRACE-0161_tile_A.html
+  id: GRACE-0161_tile_A
+  author: Thomas Gumbricht
+  caption: null
+  credit: null
+  source: null
+
+GRACE-0310_trend_A_2003-2016:
+  file: AfricaSubSahara_GRACE-0310_trend_A_2003-2016.xml
+  html: AfricaSubSahara_GRACE-0310_trend_A_2003-2016.html
+  id: GRACE-0310_trend_A_2003-2016
+  author: Thomas Gumbricht
+  caption: null
+  credit: null
+  source: null
+
+GRACE-0320_changes_A_2003-2016:
+  file: AfricaSubSahara_GRACE-0320_changes_A_2003-2016.xml
+  html: AfricaSubSahara_GRACE-0320_changes_A_2003-2016.html
+  id: GRACE-0320_changes_A_2003-2016
+  author: Thomas Gumbricht
+  caption: null
+  credit: null
+  source: null
+
+GRACE-0610_mosaic_M:
+  file: AfricaSubSahara_GRACE-0610_mosaic_M.xml
+  html: AfricaSubSahara_GRACE-0610_mosaic_M.html
+  id: GRACE-0610_mosaic_M
+  author: Thomas Gumbricht
+  caption: null
+  credit: null
+  source: null
+
+GRACE-0630_mosaic_timespanA_2003-2016:
+  file: AfricaSubSahara_GRACE-0630_mosaic_timespanA_2003-2016.xml
+  html: AfricaSubSahara_GRACE-0630_mosaic_timespanA_2003-2016.html
+  id: GRACE-0630_mosaic_timespanA_2003-2016
+  author: Thomas Gumbricht
+  caption: null
+  credit: null
+  source: null
+
+GRACE-0900_ExporttoByte_M:
+  file: AfricaSubSahara_GRACE-0900_ExporttoByte_M.xml
+  html: AfricaSubSahara_GRACE-0900_ExporttoByte_M.html
+  id: GRACE-0900_ExporttoByte_M
+  author: Thomas Gumbricht
+  caption: null
+  credit: null
+  source: null
+
+GRACE-0910_ExporttoByte_timespanA_2003-2016:
+  file: AfricaSubSahara_GRACE-0910_ExporttoByte_timespanA_2003-2016.xml
+  html: AfricaSubSahara_GRACE-0910_ExporttoByte_timespanA_2003-2016.html
+  id: GRACE-0910_ExporttoByte_timespanA_2003-2016
+  author: Thomas Gumbricht
+  caption: null
+  credit: null
+  source: null
+
+GRACE-0950_movieframes_M:
+  file: AfricaSubSahara_GRACE-0950_movieframes_M.xml
+  html: AfricaSubSahara_GRACE-0950_movieframes_M.html
+  id: GRACE-0950_movieframes_M
+  author: Thomas Gumbricht
+  caption: null
+  credit: null
+  source: null
+
+GRACE-0960_movieclock_M:
+  file: AfricaSubSahara_GRACE-0960_movieclock_M.xml
+  html: AfricaSubSahara_GRACE-0960_movieclock_M.html
+  id: GRACE-0960_movieclock_M
+  author: Thomas Gumbricht
+  caption: null
+  credit: null
+  source: null
+
+TRMM-GRACE-0370_dualtrendcomp_2003-2016:
+  file: AfricaSubSahara_TRMM-GRACE-0370_dualtrendcomp_2003-2016.xml
+  html: AfricaSubSahara_TRMM-GRACE-0370_dualtrendcomp_2003-2016.html
+  id: TRMM-GRACE-0370_dualtrendcomp_2003-2016
+  author: Thomas Gumbricht
+  caption: null
+  credit: null
+  source: null
+
+TRMM-GRACE-0385_layer-x-corr_2003-2016:
+  file: AfricaSubSahara_TRMM-GRACE-0385_layer-x-corr_2003-2016.xml
+  html: AfricaSubSahara_TRMM-GRACE-0385_layer-x-corr_2003-2016.html
+  id: TRMM-GRACE-0385_layer-x-corr_2003-2016
+  author: Thomas Gumbricht
+  caption: null
+  credit: null
+  source: null
+
+TRMM-GRACE-0625_mosaic_layer-x-corr_2003-2016:
+  file: AfricaSubSahara_TRMM-GRACE-0625_mosaic_layer-x-corr_2003-2016.xml
+  html: AfricaSubSahara_TRMM-GRACE-0625_mosaic_layer-x-corr_2003-2016.html
+  id: TRMM-GRACE-0625_mosaic_layer-x-corr_2003-2016
+  author: Thomas Gumbricht
+  caption: null
+  credit: null
+  source: null
+
+TRMM-GRACE-0951_overlay-movieframes_M:
+  file: AfricaSubSahara_TRMM-GRACE-0951_overlay-movieframes_M.xml
+  html: AfricaSubSahara_TRMM-GRACE-0951_overlay-movieframes_M.html
+  id: TRMM-GRACE-0951_overlay-movieframes_M
+  author: Thomas Gumbricht
+  caption: null
+  credit: null
+  source: null
+
+TRMM-GRACE-0960_movieclock_M:
+  file: AfricaSubSahara_TRMM-GRACE-0960_movieclock_M.xml
+  html: AfricaSubSahara_TRMM-GRACE-0960_movieclock_M.html
+  id: TRMM-GRACE-0951_overlay-movieframes_M
+  author: Thomas Gumbricht
+  caption: null
+  credit: null
+  source: null

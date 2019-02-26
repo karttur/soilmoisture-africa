@@ -1,0 +1,1522 @@
+ts-mdsl-rntwi_RNTWI_id_2001-2016_AS:
+    file: ts-mdsl-rntwi_RNTWI_id_2001-2016_AS.jpg
+    author: Thomas Gumbricht
+    caption: Theil-Sen estimated median change in rain normalised soil moisture 2001-2016, Indonesia
+    credit: null
+    source: null
+ols-sl-twi-percent_MCD43A4_bwpans_2001-2016_A:
+    file: ols-sl-twi-percent_MCD43A4_bwpans_2001-2016_A.jpg
+    author: Thomas Gumbricht
+    caption: Ordinary least square estimated change in rain normalised soil moisture 2001-2016, Kalahari, Botswana
+    credit: null
+    source: null
+ts-mdsl-rntwi_RNTWI_bwpans_2001-2016_AS:
+    file: ts-mdsl-rntwi_RNTWI_bwpans_2001-2016_AS.jpg
+    author: Thomas Gumbricht
+    caption: Theil-Sen estimated median change in rain normalised soil moisture 2001-2016, Kalahari, Botswana
+    credit: null
+    source: null
+bio-photo:
+    file: bio-photo.jpg
+    author: Thomas Gumbricht
+    caption: bio-photo
+    credit: null
+    source: null
+tropsoilwetnessmap:
+    file: tropsoilwetnessmap.jpg
+    author: Thomas Gumbricht
+    caption: Soil wetness
+    credit: null
+    source: null
+ols-ic-rntwi_RNTWI_bwpans_2001-2016_AS:
+    file: ols-ic-rntwi_RNTWI_bwpans_2001-2016_AS.jpg
+    author: Thomas Gumbricht
+    caption: Ordinary least square estimated rain normalized soil moisture 2001-2016, Kalahari, Botswana
+    credit: null
+    source: null
+ols-r2-rntwi_RNTWI_bwpans_2001-2016_AS:
+    file: ols-r2-rntwi_RNTWI_bwpans_2001-2016_AS.jpg
+    author: Thomas Gumbricht
+    caption: Ordinary least square estimated correlation (r2) for change in rain normalized soil moisture 2001-2016, Kalahari, Botswana
+    credit: null
+    source: null
+ols-rmse-twi-percent_MCD43A4_id_2001-2016_A:
+    file: ols-rmse-twi-percent_MCD43A4_id_2001-2016_A.jpg
+    author: Thomas Gumbricht
+    caption: Ordinary least square model Random Mean Square Error for change in soil moisture 2001-2016, Indonesia
+    credit: null
+    source: null
+ts-losl-twi-percent_MCD43A4_id_2001-2016_A:
+    file: ts-losl-twi-percent_MCD43A4_id_2001-2016_A.jpg
+    author: Thomas Gumbricht
+    caption: Theil-Sen lower confidence boundary (95%) for estimated change in soil moisture 2001-2016, Indonesia
+    credit: null
+    source: null
+ts-losl-trmm-3b43v7-precip_3B43_trmm_2001-2016_A:
+    file: ts-losl-trmm-3b43v7-precip_3B43_trmm_2001-2016_A.jpg
+    author: Thomas Gumbricht
+    caption: Theil-Sen lower confidence boundary (95%) for estimated change in rainfall 2001-2016, global tropics
+    credit: null
+    source: null
+ts-upsl-rntwi_RNTWI_id_2001-2016_AS:
+    file: ts-upsl-rntwi_RNTWI_id_2001-2016_AS.jpg
+    author: Thomas Gumbricht
+    caption: Theil-Sen upper confidence boundary (95%) for estimated change in rain normalised soil moisture 2001-2016, Indonesia
+    credit: null
+    source: null
+avg-rntwi_RNTWI_id_2001-2016_AS:
+    file: avg-rntwi_RNTWI_id_2001-2016_AS.jpg
+    author: Thomas Gumbricht
+    caption: Average rain normalized soil moisture 2001-2016, Indonesia
+    credit: null
+    source: null
+rntwi-delta_RNTWI_id_2001-2016_mk-z-ts-model:
+    file: rntwi-delta_RNTWI_id_2001-2016_mk-z-ts-model.jpg
+    author: Thomas Gumbricht
+    caption: Theil-Sen estimated change (absolute) in rain normalised soil moisture 2001-2016, Indonesia
+    credit: null
+    source: null
+troplandformmap:
+    file: troplandformmap.jpg
+    author: Thomas Gumbricht
+    caption: Landforms
+    credit: null
+    source: null
+ts-ic-twi-percent_MCD43A4_bwpans_2001-2016_A:
+    file: ts-ic-twi-percent_MCD43A4_bwpans_2001-2016_A.jpg
+    author: Thomas Gumbricht
+    caption: Theil-Sen estimated soil moisture 2001-2016, Kalahari, Botswana
+    credit: null
+    source: null
+twi-percent-delta_MCD43A4_id_2001-2016_mk-z-ts-model:
+    file: twi-percent-delta_MCD43A4_id_2001-2016_mk-z-ts-model.jpg
+    author: Thomas Gumbricht
+    caption: Theil-Sen estimated change (absolut) in soil moisture 2001-2016, Indonesia
+    credit: null
+    source: null
+ts-upsl-twi-percent_MCD43A4_id_2001-2016_A:
+    file: ts-upsl-twi-percent_MCD43A4_id_2001-2016_A.jpg
+    author: Thomas Gumbricht
+    caption: Theil-Sen upper confidence boundary (95%) for estimated change in soil moisture 2001-2016, Indonesia
+    credit: null
+    source: null
+twi-percent-delta_MCD43A4_oka_2001-2016_mk-z-ts-model:
+    file: twi-percent-delta_MCD43A4_oka_2001-2016_mk-z-ts-model.jpg
+    author: Thomas Gumbricht
+    caption: Theil-Sen estimated change (absolut) in soil moisture 2001-2016, Okavango, Botswana
+    credit: null
+    source: null
+twi-percent-delta_MCD43A4_bwpans_2001-2016_mk-z-ts-model@p005:
+    file: twi-percent-delta_MCD43A4_bwpans_2001-2016_mk-z-ts-model@p005.jpg
+    author: Thomas Gumbricht
+    caption: Theil-Sen estimated change (absolut) in soil moisture 2001-2016, Kalahari, Botswana
+    credit: null
+    source: null
+ts-losl-twi-percent_MCD43A4_oka_2001-2016_A:
+    file: ts-losl-twi-percent_MCD43A4_oka_2001-2016_A.jpg
+    author: Thomas Gumbricht
+    caption: Theil-Sen lower confidence boundary (95%) for estimated change in soil moisture 2001-2016, Okavango, Botswana
+    credit: null
+    source: null
+ols-ic-rntwi_RNTWI_oka_2001-2016_AS:
+    file: ols-ic-rntwi_RNTWI_oka_2001-2016_AS.jpg
+    author: Thomas Gumbricht
+    caption: Ordinary least square estimated rain normalized soil moisture 2001-2016, Okavango, Botswana
+    credit: null
+    source: null
+ts-mdsl-twi-percent_MCD43A4_bwpans_2001-2016_A:
+    file: ts-mdsl-twi-percent_MCD43A4_bwpans_2001-2016_A.jpg
+    author: Thomas Gumbricht
+    caption: Theil-Sen estimated median change in soil moisture 2001-2016, Kalahari, Botswana
+    credit: null
+    source: null
+mk-z-twi-percent_MCD43A4_java_2001-2016_A:
+    file: mk-z-twi-percent_MCD43A4_java_2001-2016_A.jpg
+    author: Thomas Gumbricht
+    caption: Mann-Kendall Z-test for changes in soil moisture 2001-2016, Java, Indonesia
+    credit: null
+    source: null
+std-trmm-fao-diff-vwb_vwb_trmm_2001-2016_A:
+    file: std-trmm-fao-diff-vwb_vwb_trmm_2001-2016_A.jpg
+    author: Thomas Gumbricht
+    caption: Standard deviation for vertical water balance 2001-2016, global tropics
+    credit: null
+    source: null
+ts-ic-rntwi_RNTWI_bwpans_2001-2016_AS:
+    file: ts-ic-rntwi_RNTWI_bwpans_2001-2016_AS.jpg
+    author: Thomas Gumbricht
+    caption: Theil-Sen estimated rain normalised soil moisture 2001-2016, Kalahari, Botswana
+    credit: null
+    source: null
+ts-ic-rntwi_RNTWI_oka_2001-2016_AS:
+    file: ts-ic-rntwi_RNTWI_oka_2001-2016_AS.jpg
+    author: Thomas Gumbricht
+    caption: Theil-Sen estimated rain normalised soil moisture 2001-2016, Okavango, Botswana
+    credit: null
+    source: null
+avg-trmm-fao-surplus-vwb_vwb_trmm_2001-2016_A:
+    file: avg-trmm-fao-surplus-vwb_vwb_trmm_2001-2016_A.jpg
+    author: Thomas Gumbricht
+    caption: Average surplus in vertical water balance (rainfall surplus) 2001-2016, global tropics
+    credit: null
+    source: null
+ts-upsl-twi-percent_MCD43A4_oka_2001-2016_A:
+    file: ts-upsl-twi-percent_MCD43A4_oka_2001-2016_A.jpg
+    author: Thomas Gumbricht
+    caption: Theil-Sen upper confidence boundary (95%) for estimated change in soil moisture 2001-2016, Okavango, Botswana
+    credit: null
+    source: null
+rainfall-delta_3B43_trmm_2001-2016_mk-z-ts-model:
+    file: rainfall-delta_3B43_trmm_2001-2016_mk-z-ts-model.jpg
+    author: Thomas Gumbricht
+    caption: Change in rainfall 2001-2016, global tropics
+    credit: null
+    source: null
+std-twi-percent_MCD43A4_bwpans_2001-2016_A:
+    file: std-twi-percent_MCD43A4_bwpans_2001-2016_A.jpg
+    author: Thomas Gumbricht
+    caption: Standard deviation for soil moisture 2001-2016, Kalahari, Botswana
+    credit: null
+    source: null
+std-twi-percent_MCD43A4_id_2001-2016_A:
+    file: std-twi-percent_MCD43A4_id_2001-2016_A.jpg
+    author: Thomas Gumbricht
+    caption: Standard deviation for soil moisture 2001-2016, Indonesia
+    credit: null
+    source: null
+ts-upsl-trmm-3b43v7-precip_3B43_trmm_2001-2016_A:
+    file: ts-upsl-trmm-3b43v7-precip_3B43_trmm_2001-2016_A.jpg
+    author: Thomas Gumbricht
+    caption: Theil-Sen upper confidence boundary (95%) for estimated change in rainfall 2001-2016, global tropics
+    credit: null
+    source: null
+ols-ic-twi-percent_MCD43A4_bwpans_2001-2016_A:
+    file: ols-ic-twi-percent_MCD43A4_bwpans_2001-2016_A.jpg
+    author: Thomas Gumbricht
+    caption: Ordinary least square estimated soil moisture 2001-2016, Kalahari, Botswana
+    credit: null
+    source: null
+ols-sl-rntwi_RNTWI_bwpans_2001-2016_AS:
+    file: ols-sl-rntwi_RNTWI_bwpans_2001-2016_AS.jpg
+    author: Thomas Gumbricht
+    caption: Ordinary least square estimated change (slope) in rain normalised soil moisture 2001-2016, Kalahari, Botswana
+    credit: null
+    source: null
+avg-rntwi_RNTWI_oka_2001-2016_AS:
+    file: avg-rntwi_RNTWI_oka_2001-2016_AS.jpg
+    author: Thomas Gumbricht
+    caption: Average rain normalized soil moisture 2001-2016, Okavango, Botswana
+    credit: null
+    source: null
+twi-percent-delta_MCD43A4_bwpans_2001-2016_mk-z-ts-model:
+    file: twi-percent-delta_MCD43A4_bwpans_2001-2016_mk-z-ts-model.jpg
+    author: Thomas Gumbricht
+    caption: Theil-Sen estimated change (absolut) in soil moisture 2001-2016, Kalahari, Botswana
+    credit: null
+    source: null
+mk-z-twi-percent_MCD43A4_bwpans_2001-2016_A:
+    file: mk-z-twi-percent_MCD43A4_bwpans_2001-2016_A.jpg
+    author: Thomas Gumbricht
+    caption: Mann-Kendall Z-test for changes in soil moisture 2001-2016, Kalahari, Botswana
+    credit: null
+    source: null
+ols-r2-rntwi_RNTWI_id_2001-2016_AS:
+    file: ols-r2-rntwi_RNTWI_id_2001-2016_AS.jpg
+    author: Thomas Gumbricht
+    caption: Ordinary least square estimated correlation (r2) for change in rain normalized soil moisture 2001-2016, Indonesia
+    credit: null
+    source: null
+ols-rmse-rntwi_RNTWI_java_2001-2016_AS:
+    file: ols-rmse-rntwi_RNTWI_java_2001-2016_AS.jpg
+    author: Thomas Gumbricht
+    caption: Ordinary least square model Random Mean Square Error for change in rain normalised soil moisture 2001-2016, Java, Indonesia
+    credit: null
+    source: null
+ts-mdsl-twi-percent_MCD43A4_id_2001-2016_A:
+    file: ts-mdsl-twi-percent_MCD43A4_id_2001-2016_A.jpg
+    author: Thomas Gumbricht
+    caption: Theil-Sen estimated median change in soil moisture 2001-2016, Indonesia
+    credit: null
+    source: null
+ts-mdsl-rntwi_RNTWI_java_2001-2016_AS:
+    file: ts-mdsl-rntwi_RNTWI_java_2001-2016_AS.jpg
+    author: Thomas Gumbricht
+    caption: Theil-Sen estimated median change in rain normalised soil moisture 2001-2016, Java, Indonesia
+    credit: null
+    source: null
+ts-losl-rntwi_RNTWI_bwpans_2001-2016_AS:
+    file: ts-losl-rntwi_RNTWI_bwpans_2001-2016_AS.jpg
+    author: Thomas Gumbricht
+    caption: Theil-Sen lower confidence boundary (95%) for estimated change in rain normalised soil moisture 2001-2016, Kalahari, Botswana
+    credit: null
+    source: null
+ols-r2-twi-percent_MCD43A4_bwpans_2001-2016_A:
+    file: ols-r2-twi-percent_MCD43A4_bwpans_2001-2016_A.jpg
+    author: Thomas Gumbricht
+    caption: Ordinary least square estimated correlation (r2) for change in soil moisture 2001-2016, Kalahari, Botswana
+    credit: null
+    source: null
+ols-sl-rntwi_RNTWI_id_2001-2016_AS:
+    file: ols-sl-rntwi_RNTWI_id_2001-2016_AS.jpg
+    author: Thomas Gumbricht
+    caption: Ordinary least square estimated change (slope) in rain normalised soil moisture 2001-2016, Indonesia
+    credit: null
+    source: null
+ts-losl-twi-percent_MCD43A4_java_2001-2016_A:
+    file: ts-losl-twi-percent_MCD43A4_java_2001-2016_A.jpg
+    author: Thomas Gumbricht
+    caption: Theil-Sen lower confidence boundary (95%) for estimated change in soil moisture 2001-2016, Java, Indonesia
+    credit: null
+    source: null
+rntwi-delta_RNTWI_bwpans_2001-2016_mk-z-ts-model:
+    file: rntwi-delta_RNTWI_bwpans_2001-2016_mk-z-ts-model.jpg
+    author: Thomas Gumbricht
+    caption: Theil-Sen estimated change (absolute) in rain normalised soil moisture 2001-2016, Kalahari, Botswana
+    credit: null
+    source: null
+ols-r2-trmm-3b43v7-precip_3B43_trmm_2001-2016_A:
+    file: ols-r2-trmm-3b43v7-precip_3B43_trmm_2001-2016_A.jpg
+    author: Thomas Gumbricht
+    caption: Ordinary least square estimated correlation (r2) for change in rainfall 2001-2016, global tropics
+    credit: null
+    source: null
+avg-twi-percent_MCD43A4_oka_2001-2016_A:
+    file: avg-twi-percent_MCD43A4_oka_2001-2016_A.jpg
+    author: Thomas Gumbricht
+    caption: Average soil moisture 2001-2016, Okavango, Botswana
+    credit: null
+    source: null
+std-rntwi_RNTWI_java_2001-2016_AS:
+    file: std-rntwi_RNTWI_java_2001-2016_AS.jpg
+    author: Thomas Gumbricht
+    caption: Starndard deviation rain normalized soil moisture 2001-2016, Java, Indonesia
+    credit: null
+    source: null
+mk-z-trmm-3b43v7-precip_3B43_trmm_2001-2016_A:
+    file: mk-z-trmm-3b43v7-precip_3B43_trmm_2001-2016_A.jpg
+    author: Thomas Gumbricht
+    caption: Mann-Kendall Z-test for changes in rainfall 2001-2016, global tropics
+    credit: null
+    source: null
+avg-twi-percent_MCD43A4_id_2001-2016_A:
+    file: avg-twi-percent_MCD43A4_id_2001-2016_A.jpg
+    author: Thomas Gumbricht
+    caption: Average soil moisture 2001-2016, Indonesia
+    credit: null
+    source: null
+ts-mdsl-rntwi_RNTWI_oka_2001-2016_AS:
+    file: ts-mdsl-rntwi_RNTWI_oka_2001-2016_AS.jpg
+    author: Thomas Gumbricht
+    caption: Theil-Sen estimated median change in rain normalised soil moisture 2001-2016, Okavango, Botswana
+    credit: null
+    source: null
+avg-trmm-3b43v7-precip_3B43_trmm_2001-2016_A:
+    file: avg-trmm-3b43v7-precip_3B43_trmm_2001-2016_A.jpg
+    author: Thomas Gumbricht
+    caption: Average rainfall 2001-2016, global tropics
+    credit: null
+    source: null
+ols-ic-rntwi_RNTWI_id_2001-2016_AS:
+    file: ols-ic-rntwi_RNTWI_id_2001-2016_AS.jpg
+    author: Thomas Gumbricht
+    caption: Ordinary least square estimated rain normalized soil moisture 2001-2016, Indonesia
+    credit: null
+    source: null
+ols-rmse-rntwi_RNTWI_bwpans_2001-2016_AS:
+    file: ols-rmse-rntwi_RNTWI_bwpans_2001-2016_AS.jpg
+    author: Thomas Gumbricht
+    caption: Ordinary least square model Random Mean Square Error for change in rain normalised soil moisture 2001-2016, Kalahari, Botswana
+    credit: null
+    source: null
+avg-twi-percent_MCD43A4_java_2001-2016_A:
+    file: avg-twi-percent_MCD43A4_java_2001-2016_A.jpg
+    author: Thomas Gumbricht
+    caption: Average soil moisture 2001-2016, Java, Indonesia
+    credit: null
+    source: null
+avg-rntwi_RNTWI_java_2001-2016_AS:
+    file: avg-rntwi_RNTWI_java_2001-2016_AS.jpg
+    author: Thomas Gumbricht
+    caption: Average rain normalized soil moisture 2001-2016, Java, Indonesia
+    credit: null
+    source: null
+twi-percent-delta_MCD43A4_java_2001-2016_mk-z-ts-model:
+    file: twi-percent-delta_MCD43A4_java_2001-2016_mk-z-ts-model.jpg
+    author: Thomas Gumbricht
+    caption: Theil-Sen estimated change (absolut) in soil moisture 2001-2016, Java, Indonesia
+    credit: null
+    source: null
+ts-upsl-rntwi_RNTWI_oka_2001-2016_AS:
+    file: ts-upsl-rntwi_RNTWI_oka_2001-2016_AS.jpg
+    author: Thomas Gumbricht
+    caption: Theil-Sen upper confidence boundary (95%) for estimated change in rain normalised soil moisture 2001-2016, Okavango, Botswana
+    credit: null
+    source: null
+ts-losl-rntwi_RNTWI_java_2001-2016_AS:
+    file: ts-losl-rntwi_RNTWI_java_2001-2016_AS.jpg
+    author: Thomas Gumbricht
+    caption: Theil-Sen lower confidence boundary (95%) for estimated change in rain normalised soil moisture 2001-2016, Java, Indonesia
+    credit: null
+    source: null
+ols-r2-rntwi_RNTWI_oka_2001-2016_AS:
+    file: ols-r2-rntwi_RNTWI_oka_2001-2016_AS.jpg
+    author: Thomas Gumbricht
+    caption: Ordinary least square estimated correlation (r2) for change in rain normalized soil moisture 2001-2016, Okavango, Botswana
+    credit: null
+    source: null
+ts-mdsl-trmm-3b43v7-precip_3B43_trmm_2001-2016_A:
+    file: ts-mdsl-trmm-3b43v7-precip_3B43_trmm_2001-2016_A.jpg
+    author: Thomas Gumbricht
+    caption: Theil-Sen estimated median change in rainfall 2001-2016, global tropics
+    credit: null
+    source: null
+ols-rmse-twi-percent_MCD43A4_oka_2001-2016_A:
+    file: ols-rmse-twi-percent_MCD43A4_oka_2001-2016_A.jpg
+    author: Thomas Gumbricht
+    caption: Ordinary least square model Random Mean Square Error for change in soil moisture 2001-2016, Okavango, Botswana
+    credit: null
+    source: null
+mk-z-rntwi_RNTWI_bwpans_2001-2016_AS:
+    file: mk-z-rntwi_RNTWI_bwpans_2001-2016_AS.jpg
+    author: Thomas Gumbricht
+    caption: Mann-Kendall Z-test for changes in rain normalised soil moisture 2001-2016, Kalahari, Botswana
+    credit: null
+    source: null
+ts-mdsl-twi-percent_MCD43A4_oka_2001-2016_A:
+    file: ts-mdsl-twi-percent_MCD43A4_oka_2001-2016_A.jpg
+    author: Thomas Gumbricht
+    caption: Theil-Sen estimated median change in soil moisture 2001-2016, Okavango, Botswana
+    credit: null
+    source: null
+ts-ic-rntwi_RNTWI_java_2001-2016_AS:
+    file: ts-ic-rntwi_RNTWI_java_2001-2016_AS.jpg
+    author: Thomas Gumbricht
+    caption: Theil-Sen estimated rain normalised soil moisture 2001-2016, Java, Indonesia
+    credit: null
+    source: null
+ols-ic-twi-percent_MCD43A4_oka_2001-2016_A:
+    file: ols-ic-twi-percent_MCD43A4_oka_2001-2016_A.jpg
+    author: Thomas Gumbricht
+    caption: Ordinary least square estimated soil moisture 2001-2016, Okavango, Botswana
+    credit: null
+    source: null
+std-trmm-3b43v7-precip_3B43_trmm_2001-2016_A:
+    file: std-trmm-3b43v7-precip_3B43_trmm_2001-2016_A.jpg
+    author: Thomas Gumbricht
+    caption: Standard deviation for rainfall 2001-2016, global tropics
+    credit: null
+    source: null
+ts-mdsl-twi-percent_MCD43A4_java_2001-2016_A:
+    file: ts-mdsl-twi-percent_MCD43A4_java_2001-2016_A.jpg
+    author: Thomas Gumbricht
+    caption: Theil-Sen estimated median change in soil moisture 2001-2016, Java, Indonesia
+    credit: null
+    source: null
+ols-r2-twi-percent_MCD43A4_id_2001-2016_A:
+    file: ols-r2-twi-percent_MCD43A4_id_2001-2016_A.jpg
+    author: Thomas Gumbricht
+    caption: Ordinary least square estimated correlation (r2) for change in soil moisture 2001-2016, Indonesia
+    credit: null
+    source: null
+avg-trmm-fao-diff-vwb_vwb_trmm_2001-2016_A:
+    file: avg-trmm-fao-diff-vwb_vwb_trmm_2001-2016_A.jpg
+    author: Thomas Gumbricht
+    caption: Average vertical water balance 2001-2016, global tropics
+    credit: null
+    source: null
+std-rntwi_RNTWI_oka_2001-2016_AS:
+    file: std-rntwi_RNTWI_oka_2001-2016_AS.jpg
+    author: Thomas Gumbricht
+    caption: Starndard deviation rain normalized soil moisture 2001-2016, Okavango, Botswana
+    credit: null
+    source: null
+ols-sl-trmm-3b43v7-precip_3B43_trmm_2001-2016_A:
+    file: ols-sl-trmm-3b43v7-precip_3B43_trmm_2001-2016_A.jpg
+    author: Thomas Gumbricht
+    caption: Ordinary least square estimated change in rainfall 2001-2016, global tropics
+    credit: null
+    source: null
+ols-sl-twi-percent_MCD43A4_oka_2001-2016_A:
+    file: ols-sl-twi-percent_MCD43A4_oka_2001-2016_A.jpg
+    author: Thomas Gumbricht
+    caption: Ordinary least square estimated change in rain normalised soil moisture 2001-2016, Okavango, Botswana
+    credit: null
+    source: null
+ts-upsl-rntwi_RNTWI_java_2001-2016_AS:
+    file: ts-upsl-rntwi_RNTWI_java_2001-2016_AS.jpg
+    author: Thomas Gumbricht
+    caption: Theil-Sen upper confidence boundary (95%) for estimated change in rain normalised soil moisture 2001-2016, Java, Indonesia
+    credit: null
+    source: null
+ts-losl-rntwi_RNTWI_id_2001-2016_AS:
+    file: ts-losl-rntwi_RNTWI_id_2001-2016_AS.jpg
+    author: Thomas Gumbricht
+    caption: Theil-Sen lower confidence boundary (95%) for estimated change in rain normalised soil moisture 2001-2016, Indonesia
+    credit: null
+    source: null
+ts-upsl-twi-percent_MCD43A4_bwpans_2001-2016_A:
+    file: ts-upsl-twi-percent_MCD43A4_bwpans_2001-2016_A.jpg
+    author: Thomas Gumbricht
+    caption: Theil-Sen upper confidence boundary (95%) for estimated change in soil moisture 2001-2016, Kalahari, Botswana
+    credit: null
+    source: null
+ols-sl-twi-percent_MCD43A4_java_2001-2016_A:
+    file: ols-sl-twi-percent_MCD43A4_java_2001-2016_A.jpg
+    author: Thomas Gumbricht
+    caption: Ordinary least square estimated change in rain normalised soil moisture 2001-2016, Java, Indonesia
+    credit: null
+    source: null
+twi-percent-delta_MCD43A4_oka_2001-2016_mk-z-ts-model@p005:
+    file: twi-percent-delta_MCD43A4_oka_2001-2016_mk-z-ts-model@p005.jpg
+    author: Thomas Gumbricht
+    caption: Theil-Sen estimated change (absolut) in soil moisture 2001-2016, Okavango, Botswana
+    credit: null
+    source: null
+ts-losl-twi-percent_MCD43A4_bwpans_2001-2016_A:
+    file: ts-losl-twi-percent_MCD43A4_bwpans_2001-2016_A.jpg
+    author: Thomas Gumbricht
+    caption: Theil-Sen lower confidence boundary (95%) for estimated change in soil moisture 2001-2016, Kalahari, Botswana
+    credit: null
+    source: null
+std-rntwi_RNTWI_id_2001-2016_AS:
+    file: std-rntwi_RNTWI_id_2001-2016_AS.jpg
+    author: Thomas Gumbricht
+    caption: Starndard deviation rain normalized soil moisture 2001-2016, Indonesia
+    credit: null
+    source: null
+ols-sl-rntwi_RNTWI_java_2001-2016_AS:
+    file: ols-sl-rntwi_RNTWI_java_2001-2016_AS.jpg
+    author: Thomas Gumbricht
+    caption: Ordinary least square estimated change (slope) in rain normalised soil moisture 2001-2016, Java, Indonesia
+    credit: null
+    source: null
+troprunoffmap:
+    file: troprunoffmap.jpg
+    author: Thomas Gumbricht
+    caption: Runoff
+    credit: null
+    source: null
+mk-z-twi-percent_MCD43A4_id_2001-2016_A:
+    file: mk-z-twi-percent_MCD43A4_id_2001-2016_A.jpg
+    author: Thomas Gumbricht
+    caption: Mann-Kendall Z-test for changes in soil moisture 2001-2016, Indonesia
+    credit: null
+    source: null
+ols-rmse-twi-percent_MCD43A4_bwpans_2001-2016_A:
+    file: ols-rmse-twi-percent_MCD43A4_bwpans_2001-2016_A.jpg
+    author: Thomas Gumbricht
+    caption: Ordinary least square model Random Mean Square Error for change in soil moisture 2001-2016, Kalahari, Botswana
+    credit: null
+    source: null
+std-rntwi_RNTWI_bwpans_2001-2016_AS:
+    file: std-rntwi_RNTWI_bwpans_2001-2016_AS.jpg
+    author: Thomas Gumbricht
+    caption: Starndard deviation rain normalized soil moisture 2001-2016, Kalahari, Botswana
+    credit: null
+    source: null
+ols-rmse-rntwi_RNTWI_oka_2001-2016_AS:
+    file: ols-rmse-rntwi_RNTWI_oka_2001-2016_AS.jpg
+    author: Thomas Gumbricht
+    caption: Ordinary least square model Random Mean Square Error for change in rain normalised soil moisture 2001-2016, Okavango, Botswana
+    credit: null
+    source: null
+ols-sl-twi-percent_MCD43A4_id_2001-2016_A:
+    file: ols-sl-twi-percent_MCD43A4_id_2001-2016_A.jpg
+    author: Thomas Gumbricht
+    caption: Ordinary least square estimated change in rain normalised soil moisture 2001-2016, Indonesia
+    credit: null
+    source: null
+ols-ic-twi-percent_MCD43A4_java_2001-2016_A:
+    file: ols-ic-twi-percent_MCD43A4_java_2001-2016_A.jpg
+    author: Thomas Gumbricht
+    caption: Ordinary least square estimated soil moisture 2001-2016, Java, Indonesia
+    credit: null
+    source: null
+ols-rmse-twi-percent_MCD43A4_java_2001-2016_A:
+    file: ols-rmse-twi-percent_MCD43A4_java_2001-2016_A.jpg
+    author: Thomas Gumbricht
+    caption: Ordinary least square model Random Mean Square Error for change in soil moisture 2001-2016, Java, Indonesia
+    credit: null
+    source: null
+std-twi-percent_MCD43A4_oka_2001-2016_A:
+    file: std-twi-percent_MCD43A4_oka_2001-2016_A.jpg
+    author: Thomas Gumbricht
+    caption: Standard deviation for soil moisture 2001-2016, Okavango, Botswana
+    credit: null
+    source: null
+ts-ic-twi-percent_MCD43A4_java_2001-2016_A:
+    file: ts-ic-twi-percent_MCD43A4_java_2001-2016_A.jpg
+    author: Thomas Gumbricht
+    caption: Theil-Sen estimated soil moisture 2001-2016, Java, Indonesia
+    credit: null
+    source: null
+rainfall-delta_3B43_trmm_2001-2016_mk-z-ts-model@p005:
+    file: rainfall-delta_3B43_trmm_2001-2016_mk-z-ts-model@p005.jpg
+    author: Thomas Gumbricht
+    caption: Change in rainfall 2001-2016, global tropics
+    credit: null
+    source: null
+rntwi-delta_RNTWI_oka_2001-2016_mk-z-ts-model:
+    file: rntwi-delta_RNTWI_oka_2001-2016_mk-z-ts-model.jpg
+    author: Thomas Gumbricht
+    caption: Theil-Sen estimated change (absolute) in rain normalised soil moisture 2001-2016, Okavango, Botswana
+    credit: null
+    source: null
+avg-twi-percent_MCD43A4_bwpans_2001-2016_A:
+    file: avg-twi-percent_MCD43A4_bwpans_2001-2016_A.jpg
+    author: Thomas Gumbricht
+    caption: Average soil moisture 2001-2016, Kalahari, Botswana
+    credit: null
+    source: null
+ols-r2-twi-percent_MCD43A4_oka_2001-2016_A:
+    file: ols-r2-twi-percent_MCD43A4_oka_2001-2016_A.jpg
+    author: Thomas Gumbricht
+    caption: Ordinary least square estimated correlation (r2) for change in soil moisture 2001-2016, Okavango, Botswana
+    credit: null
+    source: null
+ols-rmse-rntwi_RNTWI_id_2001-2016_AS:
+    file: ols-rmse-rntwi_RNTWI_id_2001-2016_AS.jpg
+    author: Thomas Gumbricht
+    caption: Ordinary least square model Random Mean Square Error for change in rain normalised soil moisture 2001-2016, Indonesia
+    credit: null
+    source: null
+ols-rmse-trmm-3b43v7-precip_3B43_trmm_2001-2016_A:
+    file: ols-rmse-trmm-3b43v7-precip_3B43_trmm_2001-2016_A.jpg
+    author: Thomas Gumbricht
+    caption: Ordinary least square model Random Mean Square Error for change in rainfall 2001-2016, global tropics
+    credit: null
+    source: null
+ols-r2-rntwi_RNTWI_java_2001-2016_AS:
+    file: ols-r2-rntwi_RNTWI_java_2001-2016_AS.jpg
+    author: Thomas Gumbricht
+    caption: Ordinary least square estimated correlation (r2) for change in rain normalized soil moisture 2001-2016, Java, Indonesia
+    credit: null
+    source: null
+ols-r2-twi-percent_MCD43A4_java_2001-2016_A:
+    file: ols-r2-twi-percent_MCD43A4_java_2001-2016_A.jpg
+    author: Thomas Gumbricht
+    caption: Ordinary least square estimated correlation (r2) for change in soil moisture 2001-2016, Java, Indonesia
+    credit: null
+    source: null
+mk-z-rntwi_RNTWI_id_2001-2016_AS:
+    file: mk-z-rntwi_RNTWI_id_2001-2016_AS.jpg
+    author: Thomas Gumbricht
+    caption: Mann-Kendall Z-test for changes in rain normalised soil moisture 2001-2016, Indonesia
+    credit: null
+    source: null
+ts-upsl-twi-percent_MCD43A4_java_2001-2016_A:
+    file: ts-upsl-twi-percent_MCD43A4_java_2001-2016_A.jpg
+    author: Thomas Gumbricht
+    caption: Theil-Sen upper confidence boundary (95%) for estimated change in soil moisture 2001-2016, Java, Indonesia
+    credit: null
+    source: null
+ols-ic-rntwi_RNTWI_java_2001-2016_AS:
+    file: ols-ic-rntwi_RNTWI_java_2001-2016_AS.jpg
+    author: Thomas Gumbricht
+    caption: Ordinary least square estimated rain normalized soil moisture 2001-2016, Java, Indonesia
+    credit: null
+    source: null
+mk-z-rntwi_RNTWI_java_2001-2016_AS:
+    file: mk-z-rntwi_RNTWI_java_2001-2016_AS.jpg
+    author: Thomas Gumbricht
+    caption: Mann-Kendall Z-test for changes in rain normalised soil moisture 2001-2016, Java, Indonesia
+    credit: null
+    source: null
+ols-sl-rntwi_RNTWI_oka_2001-2016_AS:
+    file: ols-sl-rntwi_RNTWI_oka_2001-2016_AS.jpg
+    author: Thomas Gumbricht
+    caption: Ordinary least square estimated change (slope) in rain normalised soil moisture 2001-2016, Okavango, Botswana
+    credit: null
+    source: null
+avg-trmm-fao-deficit-vwb_vwb_trmm_2001-2016_A:
+    file: avg-trmm-fao-deficit-vwb_vwb_trmm_2001-2016_A.jpg
+    author: Thomas Gumbricht
+    caption: Average deficit in vertical water balance (rainfall deficit) 2001-2016, global tropics
+    credit: null
+    source: null
+rntwi-delta_RNTWI_java_2001-2016_mk-z-ts-model:
+    file: rntwi-delta_RNTWI_java_2001-2016_mk-z-ts-model.jpg
+    author: Thomas Gumbricht
+    caption: Theil-Sen estimated change (absolute) in rain normalised soil moisture 2001-2016, Java, Indonesia
+    credit: null
+    source: null
+mk-z-rntwi_RNTWI_oka_2001-2016_AS:
+    file: mk-z-rntwi_RNTWI_oka_2001-2016_AS.jpg
+    author: Thomas Gumbricht
+    caption: Mann-Kendall Z-test for changes in rain normalised soil moisture 2001-2016, Okavango, Botswana
+    credit: null
+    source: null
+std-twi-percent_MCD43A4_java_2001-2016_A:
+    file: std-twi-percent_MCD43A4_java_2001-2016_A.jpg
+    author: Thomas Gumbricht
+    caption: Standard deviation for soil moisture 2001-2016, Java, Indonesia
+    credit: null
+    source: null
+ts-ic-rntwi_RNTWI_id_2001-2016_AS:
+    file: ts-ic-rntwi_RNTWI_id_2001-2016_AS.jpg
+    author: Thomas Gumbricht
+    caption: Theil-Sen estimated rain normalised soil moisture 2001-2016, Indonesia
+    credit: null
+    source: null
+ts-losl-rntwi_RNTWI_oka_2001-2016_AS:
+    file: ts-losl-rntwi_RNTWI_oka_2001-2016_AS.jpg
+    author: Thomas Gumbricht
+    caption: Theil-Sen lower confidence boundary (95%) for estimated change in rain normalised soil moisture 2001-2016, Okavango, Botswana
+    credit: null
+    source: null
+ols-ic-twi-percent_MCD43A4_id_2001-2016_A:
+    file: ols-ic-twi-percent_MCD43A4_id_2001-2016_A.jpg
+    author: Thomas Gumbricht
+    caption: Ordinary least square estimated soil moisture 2001-2016, Indonesia
+    credit: null
+    source: null
+mk-z-twi-percent_MCD43A4_oka_2001-2016_A:
+    file: mk-z-twi-percent_MCD43A4_oka_2001-2016_A.jpg
+    author: Thomas Gumbricht
+    caption: Mann-Kendall Z-test for changes in soil moisture 2001-2016, Okavango, Botswana
+    credit: null
+    source: null
+avg-rntwi_RNTWI_bwpans_2001-2016_AS:
+    file: avg-rntwi_RNTWI_bwpans_2001-2016_AS.jpg
+    author: Thomas Gumbricht
+    caption: Average rain normalized soil moisture 2001-2016, Kalahari, Botswana
+    credit: null
+    source: null
+ts-ic-twi-percent_MCD43A4_id_2001-2016_A:
+    file: ts-ic-twi-percent_MCD43A4_id_2001-2016_A.jpg
+    author: Thomas Gumbricht
+    caption: Theil-Sen estimated soil moisture 2001-2016, Indonesia
+    credit: null
+    source: null
+ts-upsl-rntwi_RNTWI_bwpans_2001-2016_AS:
+    file: ts-upsl-rntwi_RNTWI_bwpans_2001-2016_AS.jpg
+    author: Thomas Gumbricht
+    caption: Theil-Sen upper confidence boundary (95%) for estimated change in rain normalised soil moisture 2001-2016, Kalahari, Botswana
+    credit: null
+    source: null
+ts-ic-twi-percent_MCD43A4_oka_2001-2016_A:
+    file: ts-ic-twi-percent_MCD43A4_oka_2001-2016_A.jpg
+    author: Thomas Gumbricht
+    caption: Theil-Sen estimated soil moisture 2001-2016, Okavango, Botswana
+    credit: null
+    source: null
+
+tropwetlandmap:
+    file: tropwetlandmap.jpg
+    author: Thomas Gumbricht
+    caption: Wetlands
+    credit: null
+    source: null
+
+avg-trmm-3b43v7-precip_3b43_africasubsahara_1998-2017_v7-f-m-A-30km:
+  file: avg-trmm-3b43v7-precip_3b43_africasubsahara_1998-2017_v7-f-m-A-30km.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+std-trmm-3b43v7-precip_3b43_africasubsahara_1998-2017_v7-f-m-A-30km:
+  file: std-trmm-3b43v7-precip_3b43_africasubsahara_1998-2017_v7-f-m-A-30km.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+ols-sl-trmm-3b43v7-precip_3b43_africasubsahara_1998-2017_v7-f-m-A-30km:
+  file: ols-sl-trmm-3b43v7-precip_3b43_africasubsahara_1998-2017_v7-f-m-A-30km.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+ts-mdsl-trmm-3b43v7-precip_3b43_africasubsahara_1998-2017_v7-f-m-A-30km:
+  file: ts-mdsl-trmm-3b43v7-precip_3b43_africasubsahara_1998-2017_v7-f-m-A-30km.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+ts-losl-trmm-3b43v7-precip_3b43_africasubsahara_1998-2017_v7-f-m-A-30km:
+  file: ts-losl-trmm-3b43v7-precip_3b43_africasubsahara_1998-2017_v7-f-m-A-30km.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+ts-hisl-trmm-3b43v7-precip_3b43_africasubsahara_1998-2017_v7-f-m-A-30km:
+  file: ts-hisl-trmm-3b43v7-precip_3b43_africasubsahara_1998-2017_v7-f-m-A-30km.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+trmm-3b43v7-precip-change_3b43_africasubsahara_1998-2017_model-v7-f-m-A-30km:
+  file: trmm-3b43v7-precip-change_3b43_africasubsahara_1998-2017_model-v7-f-m-A-30km.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+trmm-3b43v7-precip-change_3b43_africasubsahara_1998-2017_model@p-v7-f-m-A-30km:
+  file: trmm-3b43v7-precip-change_3b43_africasubsahara_1998-2017_model@p-v7-f-m-A-30km.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+season-lag-soi_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1:
+  file: season-lag-soi_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+season-pearson-soi_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1:
+  file: season-pearson-soi_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+season-lag-soi_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-abs-a1:
+  file: season-lag-soi_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-abs-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+season-pearson-soi_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-abs-a1:
+  file: season-pearson-soi_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-abs-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+season-lag-soi_3b43_africasubsahara_199801-201712M_v7-f-m-30km-sfs-a1:
+  file: season-lag-soi_3b43_africasubsahara_199801-201712M_v7-f-m-30km-sfs-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+season-pearson-soi_3b43_africasubsahara_199801-201712M_v7-f-m-30km-sfs-a1:
+  file: season-pearson-soi_3b43_africasubsahara_199801-201712M_v7-f-m-30km-sfs-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+season-lag-soi_3b43_africasubsahara_199801-201712M_v7-f-m-30km-sfs-a2:
+  file: season-lag-soi_3b43_africasubsahara_199801-201712M_v7-f-m-30km-sfs-a2.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+season-pearson-soi_3b43_africasubsahara_199801-201712M_v7-f-m-30km-sfs-a2:
+  file: season-pearson-soi_3b43_africasubsahara_199801-201712M_v7-f-m-30km-sfs-a2.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+season-lag-soi_3b43_africasubsahara_199801-201712M_v7-f-m-30km-sfs-abs-a1:
+  file: season-lag-soi_3b43_africasubsahara_199801-201712M_v7-f-m-30km-sfs-abs-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+season-pearson-soi_3b43_africasubsahara_199801-201712M_v7-f-m-30km-sfs-abs-a1:
+  file: season-pearson-soi_3b43_africasubsahara_199801-201712M_v7-f-m-30km-sfs-abs-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+
+tendency-lag-soi_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1:
+  file: tendency-lag-soi_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+tendency-pearson-soi_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1:
+  file: tendency-pearson-soi_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+tendency-lag-soi_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-abs-a1:
+  file: tendency-lag-soi_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-abs-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+tendency-pearson-soi_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-abs-a1:
+  file: tendency-pearson-soi_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-abs-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+tendency-lag-soi_3b43_africasubsahara_199801-201712M_v7-f-m-30km-sfs-a1:
+  file: tendency-lag-soi_3b43_africasubsahara_199801-201712M_v7-f-m-30km-sfs-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+tendency-pearson-soi_3b43_africasubsahara_199801-201712M_v7-f-m-30km-sfs-a1:
+  file: tendency-pearson-soi_3b43_africasubsahara_199801-201712M_v7-f-m-30km-sfs-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+tendency-lag-soi_3b43_africasubsahara_199801-201712M_v7-f-m-30km-sfs-a2:
+  file: tendency-lag-soi_3b43_africasubsahara_199801-201712M_v7-f-m-30km-sfs-a2.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+tendency-pearson-soi_3b43_africasubsahara_199801-201712M_v7-f-m-30km-sfs-a2:
+  file: tendency-pearson-soi_3b43_africasubsahara_199801-201712M_v7-f-m-30km-sfs-a2.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+tendency-lag-soi_3b43_africasubsahara_199801-201712M_v7-f-m-30km-sfs-abs-a1:
+  file: tendency-lag-soi_3b43_africasubsahara_199801-201712M_v7-f-m-30km-sfs-abs-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+tendency-pearson-soi_3b43_africasubsahara_199801-201712M_v7-f-m-30km-sfs-abs-a1:
+  file: tendency-pearson-soi_3b43_africasubsahara_199801-201712M_v7-f-m-30km-sfs-abs-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+residual-lag-soi_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1:
+  file: residual-lag-soi_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+residual-pearson-soi_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1:
+  file: residual-pearson-soi_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+residual-lag-soi_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-abs-a1:
+  file: residual-lag-soi_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-abs-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+residual-pearson-soi_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-abs-a1:
+  file: residual-pearson-soi_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-abs-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+residual-lag-soi_3b43_africasubsahara_199801-201712M_v7-f-m-30km-sfs-a1:
+  file: residual-lag-soi_3b43_africasubsahara_199801-201712M_v7-f-m-30km-sfs-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+residual-pearson-soi_3b43_africasubsahara_199801-201712M_v7-f-m-30km-sfs-a1:
+  file: residual-pearson-soi_3b43_africasubsahara_199801-201712M_v7-f-m-30km-sfs-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+residual-lag-soi_3b43_africasubsahara_199801-201712M_v7-f-m-30km-sfs-a2:
+  file: residual-lag-soi_3b43_africasubsahara_199801-201712M_v7-f-m-30km-sfs-a2.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+residual-pearson-soi_3b43_africasubsahara_199801-201712M_v7-f-m-30km-sfs-a2:
+  file: residual-pearson-soi_3b43_africasubsahara_199801-201712M_v7-f-m-30km-sfs-a2.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+residual-lag-soi_3b43_africasubsahara_199801-201712M_v7-f-m-30km-sfs-abs-a1:
+  file: residual-lag-soi_3b43_africasubsahara_199801-201712M_v7-f-m-30km-sfs-abs-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+residual-pearson-soi_3b43_africasubsahara_199801-201712M_v7-f-m-30km-sfs-abs-a1:
+  file: residual-pearson-soi_3b43_africasubsahara_199801-201712M_v7-f-m-30km-sfs-abs-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+season-lag-nao_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1:
+  file: season-lag-nao_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+season-pearson-nao_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1:
+  file: season-pearson-nao_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+season-lag-nina3_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1:
+  file: season-lag-nina3_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+season-pearson-nina3_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1:
+  file: season-pearson-nina3_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+season-lag-pdo_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1:
+  file: season-lag-pdo_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+season-pearson-pdo_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1:
+  file: season-pearson-pdo_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+season-lag-pna_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1:
+  file: season-lag-pna_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+season-pearson-pna_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1:
+  file: season-pearson-pna_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+season-lag-best_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1:
+  file: season-lag-best_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+season-pearson-best_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1:
+  file: season-pearson-best_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+residual-lag-nao_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1:
+  file: residual-lag-nao_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+residual-pearson-nao_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1:
+  file: residual-pearson-nao_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+residual-lag-nina3_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1:
+  file: residual-lag-nina3_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+residual-pearson-nina3_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1:
+  file: residual-pearson-nina3_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+residual-lag-pdo_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1:
+  file: residual-lag-pdo_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+residual-pearson-pdo_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1:
+  file: residual-pearson-pdo_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+residual-lag-pna_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1:
+  file: residual-lag-pna_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+residual-pearson-pna_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1:
+  file: residual-pearson-pna_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+residual-lag-best_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1:
+  file: residual-lag-best_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+residual-pearson-best_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1:
+  file: residual-pearson-best_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+tendency-lag-nao_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1:
+  file: tendency-lag-nao_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+tendency-pearson-nao_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1:
+  file: tendency-pearson-nao_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+tendency-lag-nina3_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1:
+  file: tendency-lag-nina3_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+tendency-pearson-nina3_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1:
+  file: tendency-pearson-nina3_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+tendency-lag-pdo_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1:
+  file: tendency-lag-pdo_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+tendency-pearson-pdo_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1:
+  file: tendency-pearson-pdo_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+tendency-lag-pna_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1:
+  file: tendency-lag-pna_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+tendency-pearson-pna_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1:
+  file: tendency-pearson-pna_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+tendency-lag-best_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1:
+  file: tendency-lag-best_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+tendency-pearson-best_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1:
+  file: tendency-pearson-best_3b43_africasubsahara_199801-201712M_v7-f-m-30km-nadd-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+avg-trmm-fao-vwb_3b43_africasubsahara_1998-2017_v7-f-m-A-30km:
+  file: avg-trmm-fao-vwb_3b43_africasubsahara_1998-2017_v7-f-m-A-30km.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+avg-trmm-fao-vwb-surplus_3b43_africasubsahara_1998-2017_v7-f-m-A-30km:
+  file: avg-trmm-fao-vwb-surplus_3b43_africasubsahara_1998-2017_v7-f-m-A-30km.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+avg-trmm-fao-vwb-deficit_3b43_africasubsahara_1998-2017_v7-f-m-A-30km:
+  file: avg-trmm-fao-vwb-deficit_3b43_africasubsahara_1998-2017_v7-f-m-A-30km.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+ts-mdsl-trmm-fao-vwb_3b43_africasubsahara_1998-2017_v7-f-m-A-30km:
+  file: ts-mdsl-trmm-fao-vwb_3b43_africasubsahara_1998-2017_v7-f-m-A-30km.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+ts-mdsl-trmm-fao-vwb-surplus_3b43_africasubsahara_1998-2017_v7-f-m-A-30km:
+  file: ts-mdsl-trmm-fao-vwb-surplus_3b43_africasubsahara_1998-2017_v7-f-m-A-30km.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+ts-mdsl-trmm-fao-vwb-deficit_3b43_africasubsahara_1998-2017_v7-f-m-A-30km:
+  file: ts-mdsl-trmm-fao-vwb-deficit_3b43_africasubsahara_1998-2017_v7-f-m-A-30km.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+trmm-fao-vwb-change_3b43_africasubsahara_1998-2017_model-v7-f-m-A-30km:
+  file: trmm-fao-vwb-change_3b43_africasubsahara_1998-2017_model-v7-f-m-A-30km.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+trmm-fao-vwb-surplus-change_3b43_africasubsahara_1998-2017_model-v7-f-m-A-30km:
+  file: trmm-fao-vwb-surplus-change_3b43_africasubsahara_1998-2017_model-v7-f-m-A-30km.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+trmm-fao-vwb-deficit-change_3b43_africasubsahara_1998-2017_model-v7-f-m-A-30km:
+  file: trmm-fao-vwb-deficit-change_3b43_africasubsahara_1998-2017_model-v7-f-m-A-30km.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+trmm-fao-vwb-change_3b43_africasubsahara_1998-2017_model@p-v7-f-m-A-30km:
+  file: trmm-fao-vwb-change_3b43_africasubsahara_1998-2017_model@p-v7-f-m-A-30km.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+trmm-fao-vwb-surplus-change_3b43_africasubsahara_1998-2017_model@p-v7-f-m-A-30km:
+  file: trmm-fao-vwb-surplus-change_3b43_africasubsahara_1998-2017_model@p-v7-f-m-A-30km.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+trmm-fao-vwb-deficit-change_3b43_africasubsahara_1998-2017_model@p-v7-f-m-A-30km:
+  file: trmm-fao-vwb-deficit-change_3b43_africasubsahara_1998-2017_model@p-v7-f-m-A-30km.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+avg-grace-ave_cmwater_africasubsahara_2003-2016_RL05-f-A-1deg:
+  file: avg-grace-ave_cmwater_africasubsahara_2003-2016_RL05-f-A-1deg.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+std-grace-ave_cmwater_africasubsahara_2003-2016_RL05-f-A-1deg:
+  file: std-grace-ave_cmwater_africasubsahara_2003-2016_RL05-f-A-1deg.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+ols-sl-grace-ave_cmwater_africasubsahara_2003-2016_RL05-f-A-1deg:
+  file: ols-sl-grace-ave_cmwater_africasubsahara_2003-2016_RL05-f-A-1deg.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+ts-mdsl-grace-ave_cmwater_africasubsahara_2003-2016_RL05-f-A-1deg:
+  file: ts-mdsl-grace-ave_cmwater_africasubsahara_2003-2016_RL05-f-A-1deg.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+ts-losl-grace-ave_cmwater_africasubsahara_2003-2016_RL05-f-A-1deg:
+  file: ts-losl-grace-ave_cmwater_africasubsahara_2003-2016_RL05-f-A-1deg.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+ts-hisl-grace-ave_cmwater_africasubsahara_2003-2016_RL05-f-A-1deg:
+  file: ts-hisl-grace-ave_cmwater_africasubsahara_2003-2016_RL05-f-A-1deg.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+grace-ave-change_cmwater_africasubsahara_2003-2016_model-RL05-f-A-1deg:
+  file: grace-ave-change_cmwater_africasubsahara_2003-2016_model-RL05-f-A-1deg.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+grace-ave-change_cmwater_africasubsahara_2003-2016_model@p-RL05-f-A-1deg:
+  file: grace-ave-change_cmwater_africasubsahara_2003-2016_model@p-RL05-f-A-1deg.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+trendcomp_trmm-grace_africasubsahara_2003-2016_model@p-v7-RL05-1deg:
+  file: trendcomp_trmm-grace_africasubsahara_2003-2016_model@p-v7-RL05-1deg.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+trendcomp_vwbsurplus-grace_africasubsahara_2003-2016_model@p-v7-RL05-1deg:
+  file: trendcomp_vwbsurplus-grace_africasubsahara_2003-2016_model@p-v7-RL05-1deg.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+obs-lag_trmm-xc-grace_africasubsahara_200301-201612M_v7-RL05-nadd-a1:
+  file: obs-lag_trmm-xc-grace_africasubsahara_200301-201612M_v7-RL05-nadd-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+obs-pearson_trmm-xc-grace_africasubsahara_200301-201612M_v7-RL05-nadd-a1:
+  file: obs-pearson_trmm-xc-grace_africasubsahara_200301-201612M_v7-RL05-nadd-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+obs-lag_vwb-xc-grace_africasubsahara_200301-201612M_v7-RL05-nadd-a1:
+  file: obs-lag_vwb-xc-grace_africasubsahara_200301-201612M_v7-RL05-nadd-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+obs-lag_vwb-xc-grace_africasubsahara_200301-201612M_v7-RL05-nadd-a1:
+  file: obs-lag_vwb-xc-grace_africasubsahara_200301-201612M_v7-RL05-nadd-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+obs-pearson_vwb-xc-grace_africasubsahara_200301-201612M_v7-RL05-nadd-a1:
+  file: obs-pearson_vwb-xc-grace_africasubsahara_200301-201612M_v7-RL05-nadd-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+obs-pearson_vwb-xc-grace_africasubsahara_200301-201612M_v7-RL05-nadd-a1:
+  file: obs-pearson_vwb-xc-grace_africasubsahara_200301-201612M_v7-RL05-nadd-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+obs-lag_vwbsurplus-xc-grace_africasubsahara_200301-201612M_v7-RL05-nadd-a1:
+  file: obs-lag_vwbsurplus-xc-grace_africasubsahara_200301-201612M_v7-RL05-nadd-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+obs-pearson_vwbsurplus-xc-grace_africasubsahara_200301-201612M_v7-RL05-nadd-a1:
+  file: obs-pearson_vwbsurplus-xc-grace_africasubsahara_200301-201612M_v7-RL05-nadd-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+season-lag_trmm-xc-grace_africasubsahara_200301-201612M_v7-RL05-nadd-a1:
+  file: season-lag_trmm-xc-grace_africasubsahara_200301-201612M_v7-RL05-nadd-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+season-pearson_trmm-xc-grace_africasubsahara_200301-201612M_v7-RL05-nadd-a1:
+  file: season-pearson_trmm-xc-grace_africasubsahara_200301-201612M_v7-RL05-nadd-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+tendency-lag_trmm-xc-grace_africasubsahara_200301-201612M_v7-RL05-nadd-a1:
+  file: tendency-lag_trmm-xc-grace_africasubsahara_200301-201612M_v7-RL05-nadd-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+tendency-pearson_trmm-xc-grace_africasubsahara_200301-201612M_v7-RL05-nadd-a1:
+  file: tendency-pearson_trmm-xc-grace_africasubsahara_200301-201612M_v7-RL05-nadd-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+residual-lag_trmm-xc-grace_africasubsahara_200301-201612M_v7-RL05-nadd-a1:
+  file: residual-lag_trmm-xc-grace_africasubsahara_200301-201612M_v7-RL05-nadd-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+residual-pearson_trmm-xc-grace_africasubsahara_200301-201612M_v7-RL05-nadd-a1:
+  file: residual-pearson_trmm-xc-grace_africasubsahara_200301-201612M_v7-RL05-nadd-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+season-pearson-lag0_trmm-xc-grace_africasubsahara_200301-201612M_v7-RL05-nadd-a1:
+  file: season-pearson-lag0_trmm-xc-grace_africasubsahara_200301-201612M_v7-RL05-nadd-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+season-pearson-lag1_trmm-xc-grace_africasubsahara_200301-201612M_v7-RL05-nadd-a1:
+  file: season-pearson-lag1_trmm-xc-grace_africasubsahara_200301-201612M_v7-RL05-nadd-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+season-pearson-lag2_trmm-xc-grace_africasubsahara_200301-201612M_v7-RL05-nadd-a1:
+  file: season-pearson-lag2_trmm-xc-grace_africasubsahara_200301-201612M_v7-RL05-nadd-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+tendency-pearson-lag0_trmm-xc-grace_africasubsahara_200301-201612M_v7-RL05-nadd-a1:
+  file: tendency-pearson-lag0_trmm-xc-grace_africasubsahara_200301-201612M_v7-RL05-nadd-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+tendency-pearson-lag1_trmm-xc-grace_africasubsahara_200301-201612M_v7-RL05-nadd-a1:
+  file: tendency-pearson-lag1_trmm-xc-grace_africasubsahara_200301-201612M_v7-RL05-nadd-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+tendency-pearson-lag2_trmm-xc-grace_africasubsahara_200301-201612M_v7-RL05-nadd-a1:
+  file: tendency-pearson-lag2_trmm-xc-grace_africasubsahara_200301-201612M_v7-RL05-nadd-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+tendency-pearson-lag3_trmm-xc-grace_africasubsahara_200301-201612M_v7-RL05-nadd-a1:
+  file: tendency-pearson-lag3_trmm-xc-grace_africasubsahara_200301-201612M_v7-RL05-nadd-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+tendency-pearson-lag4_trmm-xc-grace_africasubsahara_200301-201612M_v7-RL05-nadd-a1:
+  file: tendency-pearson-lag4_trmm-xc-grace_africasubsahara_200301-201612M_v7-RL05-nadd-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+tendency-pearson-lag5_trmm-xc-grace_africasubsahara_200301-201612M_v7-RL05-nadd-a1:
+  file: tendency-pearson-lag5_trmm-xc-grace_africasubsahara_200301-201612M_v7-RL05-nadd-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+residual-pearson-lag0_trmm-xc-grace_africasubsahara_200301-201612M_v7-RL05-nadd-a1:
+  file: residual-pearson-lag0_trmm-xc-grace_africasubsahara_200301-201612M_v7-RL05-nadd-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+residual-pearson-lag1_trmm-xc-grace_africasubsahara_200301-201612M_v7-RL05-nadd-a1:
+  file: residual-pearson-lag1_trmm-xc-grace_africasubsahara_200301-201612M_v7-RL05-nadd-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null
+
+residual-pearson-lag2_trmm-xc-grace_africasubsahara_200301-201612M_v7-RL05-nadd-a1:
+  file: residual-pearson-lag2_trmm-xc-grace_africasubsahara_200301-201612M_v7-RL05-nadd-a1.jpg
+  author: Thomas Gumbricht
+  caption: Wetlands
+  credit: null
+  source: null

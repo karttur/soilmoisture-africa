@@ -1,0 +1,71 @@
+rainfall_3b43_africasubsahara_199801-201807_v7-f-m-30km:
+    file: rainfall_3b43_africasubsahara_199801-201807_v7-f-m-30km.mp4
+    author: Thomas Gumbricht
+    caption: Monthly rainfall estimated from TRMM and other sources (TRMM product 3B43)
+    credit: null
+    source: null
+    width: 800
+    height: 532
+
+trmm-fao-vwb_3b43_africasubsahara_199801-201807_v7-f-m-30km:
+  file: trmm-fao-vwb_3b43_africasubsahara_199801-201807_v7-f-m-30km.mp4
+  author: Thomas Gumbricht
+  caption: Monthly total Vertical Water Balance
+  credit: null
+  source: null
+  width: 800
+  height: 532
+
+trmm-fao-vwb-surplus_3b43_africasubsahara_199801-201807_v7-f-m-30km:
+  file: trmm-fao-vwb-surplus_3b43_africasubsahara_199801-201807_v7-f-m-30km.mp4
+  author: Thomas Gumbricht
+  caption: Monthly surplus Vertical Water Balance
+  credit: null
+  source: null
+  width: 800
+  height: 532
+
+trmm-fao-vwb-deficit_3b43_africasubsahara_199801-201807_v7-f-m-30km:
+  file: trmm-fao-vwb-deficit_3b43_africasubsahara_199801-201807_v7-f-m-30km.mp4
+  author: Thomas Gumbricht
+  caption: Monthly deficit Vertical Water Balance
+  credit: null
+  source: null
+  width: 800
+  height: 532
+
+grace-ave_cmwater_africasubsahara_200205-201612_RL05-f-1deg:
+  file: grace-ave_cmwater_africasubsahara_200205-201612_RL05-f-1deg.mp4
+  author: Thomas Gumbricht
+  caption: Monthly GRACE variations in equivalent water pillar depth
+  credit: null
+  source: null
+  width: 800
+  height: 532
+
+grace-trmm_xcorr_africasubsahara_200205-201612_RL05-f-1deg:
+  file: grace-trmm_xcorr_africasubsahara_200205-201612_RL05-f-1deg.mp4
+  author: Thomas Gumbricht
+  caption: Co-variation in TRMM Rainfall (inset) and GRACE equivalent water pillar depth (main)
+  credit: null
+  source: null
+  width: 800
+  height: 532
+
+grace-vwb_xcorr_africasubsahara_200205-201612_RL05-f-1deg:
+  file: grace-vwb_xcorr_africasubsahara_200205-201612_RL05-f-1deg.mp4
+  author: Thomas Gumbricht
+  caption: Co-variation in total VWB (inset) and GRACE equivalent water pillar depth (main)
+  credit: null
+  source: null
+  width: 800
+  height: 532
+
+grace-vwbsurplus_xcorr_africasubsahara_200205-201612_RL05-f-1deg:
+  file: grace-vwbsurplus_xcorr_africasubsahara_200205-201612_RL05-f-1deg.mp4
+  author: Thomas Gumbricht
+  caption: Co-variation in surplus VWB (inset) and GRACE equivalent water pillar depth (main)
+  credit: null
+  source: null
+  width: 800
+  height: 532
