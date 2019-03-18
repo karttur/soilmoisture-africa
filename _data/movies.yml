@@ -69,3 +69,21 @@ grace-vwbsurplus_xcorr_africasubsahara_200205-201612_RL05-f-1deg:
   source: null
   width: 800
   height: 532
+
+SMAPvsTWI_africasubsahara_2015121-2018361_002-modfit-9km:
+  file: SMAPvsTWI_africasubsahara_2015121-2018361_002-modfit-9km.mp4
+  author: Thomas Gumbricht
+  caption: SMAP (top) versus MODIS TWI (bottom) soil moisture estiamtes for Sub-Saharan Africa 2015 to 2018
+  credit: null
+  source: null
+  width: 800
+  height: 1064
+
+SMAPvsTWI_h20v10_2015121-2018361_002-modfit-9km:
+  file: SMAPvsTWI_h20v10_2015121-2018361_002-modfit-9km.mp4
+  author: Thomas Gumbricht
+  caption: SMAP (left) versus MODIS TWI (right) soil moisture estiamtes for parts of southern Africa (MODIS tile h20v10) 2015 to 2018
+  credit: null
+  source: null
+  width: 800
+  height: 1064
