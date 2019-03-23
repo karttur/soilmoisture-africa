@@ -36,7 +36,7 @@ This post outlines a process chain for exploring and analysing the Vertical Wate
 
 # Prerequisites
 
-To follow the processing steps in this post you must set up a [Spatial Data Integrated Development Environment (SPIDE)](https://karttur.github.io/setup-ide/), download and install [Karttur's GeoImagine Framework](https://karttur.github.io/geoimagine/blog/blog-import-project-eclipse/) from Github, and [calculate the Vertical Water balance](https://karttur.github.io/geoimagine/blog/blog-VWB-TRMM-FAOrefET/). The latter also requires that you [download and process the original TRMM data](https://karttur.github.io/geoimagine/blog/blog-TRMM/) and the [FAO reference evapotranspiration](https://karttur.github.io/geoimagine/blog/blog-FAO-refevap/).
+To follow the processing steps in this post you must set up a [Spatial Data Integrated Development Environment (SPIDE)](https://karttur.github.io/setup-ide/), download and install [Karttur's GeoImagine Framework](https://karttur.github.io/geoimagine/blog/blog-import-project-eclipse/) from Github, and [calculate the Vertical Water balance](https://karttur.github.io/geoimagine/blog/blog-VWB-TRMM-FAOrefET/). The latter requires that you [download and process the original TRMM data](https://karttur.github.io/geoimagine/blog/blog-TRMM/) and the [FAO reference evapotranspiration](https://karttur.github.io/geoimagine/blog/blog-FAO-refevap/).
 
 # Introduction
 
@@ -51,7 +51,7 @@ The principal steps for creating estimations, maps and animations from VWB data 
 - Mosaic
 - Export media
 
-In the Framework a process chaincan be built as a series of calls to xml coded instructions. This section contains the calls and the remaining parts of the post details each called xml. As noted above, the results are available in the [next](../vwb-results) post.
+In the Framework a process chain can be built as a series of calls to xml coded instructions. This section contains the calls and the remaining parts of the post details each called xml. As noted above, the results are available in the [next](../vwb-results) post.
 
 <button id= "toggleProcessChain" onclick="hiddencode('ProcessChain')">Hide/Show AfricaSubSahara_process_VWB.txt</button>
 

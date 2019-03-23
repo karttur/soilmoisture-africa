@@ -79,11 +79,245 @@ SMAPvsTWI_africasubsahara_2015121-2018361_002-modfit-9km:
   width: 800
   height: 1064
 
-SMAPvsTWI_h20v10_2015121-2018361_002-modfit-9km:
-  file: SMAPvsTWI_h20v10_2015121-2018361_002-modfit-9km.mp4
+SMAPvsTWIx4_h16v08_2015121-2018361_002-modfit-9km:
+  file: SMAPvsTWIx4_h16v08_2015121-2018361_002-modfit-9km.mp4
   author: Thomas Gumbricht
-  caption: SMAP (left) versus MODIS TWI (right) soil moisture estimates for parts of southern Africa (MODIS tile h20v10) 2015 to 2018
+  caption: SMAP versus MODIS TWI soil moisture estimates for parts of Africa (MODIS tile h16v08) 2015 to 2018 (see text).
   credit: null
   source: null
   width: 804
-  height: 402
+  height: 804
+
+SMAPvsTWIx4_h16v09_2015121-2018361_002-modfit-9km:
+  file: SMAPvsTWIx4_h16v09_2015121-2018361_002-modfit-9km.mp4
+  author: Thomas Gumbricht
+  caption: SMAP versus MODIS TWI soil moisture estimates for parts of Africa (MODIS tile h16v09) 2015 to 2018 (see text).
+  credit: null
+  source: null
+  width: 804
+  height: 804
+
+SMAPvsTWIx4_h16v12_2015121-2018361_002-modfit-9km:
+  file: SMAPvsTWIx4_h16v12_2015121-2018361_002-modfit-9km.mp4
+  author: Thomas Gumbricht
+  caption: SMAP versus MODIS TWI soil moisture estimates for parts of Africa (MODIS tile h16v12) 2015 to 2018 (see text).
+  credit: null
+  source: null
+  width: 804
+  height: 804
+
+SMAPvsTWIx4_h17v08_2015121-2018361_002-modfit-9km:
+  file: SMAPvsTWIx4_h17v08_2015121-2018361_002-modfit-9km.mp4
+  author: Thomas Gumbricht
+  caption: SMAP versus MODIS TWI soil moisture estimates for parts of Africa (MODIS tile h17v08) 2015 to 2018 (see text).
+  credit: null
+  source: null
+  width: 804
+  height: 804
+
+SMAPvsTWIx4_h17v10_2015121-2018361_002-modfit-9km:
+  file: SMAPvsTWIx4_h17v10_2015121-2018361_002-modfit-9km.mp4
+  author: Thomas Gumbricht
+  caption: SMAP versus MODIS TWI soil moisture estimates for parts of Africa (MODIS tile h17v10) 2015 to 2018 (see text).
+  credit: null
+  source: null
+  width: 804
+  height: 804
+
+SMAPvsTWIx4_h17v12_2015121-2018361_002-modfit-9km:
+  file: SMAPvsTWIx4_h17v12_2015121-2018361_002-modfit-9km.mp4
+  author: Thomas Gumbricht
+  caption: SMAP versus MODIS TWI soil moisture estimates for parts of Africa (MODIS tile h17v12) 2015 to 2018 (see text).
+  credit: null
+  source: null
+  width: 804
+  height: 804
+
+SMAPvsTWIx4_h18v08_2015121-2018361_002-modfit-9km:
+  file: SMAPvsTWIx4_h18v08_2015121-2018361_002-modfit-9km.mp4
+  author: Thomas Gumbricht
+  caption: SMAP versus MODIS TWI soil moisture estimates for parts of Africa (MODIS tile h18v08) 2015 to 2018 (see text).
+  credit: null
+  source: null
+  width: 804
+  height: 804
+
+SMAPvsTWIx4_h18v09_2015121-2018361_002-modfit-9km:
+  file: SMAPvsTWIx4_h18v09_2015121-2018361_002-modfit-9km.mp4
+  author: Thomas Gumbricht
+  caption: SMAP versus MODIS TWI soil moisture estimates for parts of Africa (MODIS tile h18v09) 2015 to 2018 (see text).
+  credit: null
+  source: null
+  width: 804
+  height: 804
+
+SMAPvsTWIx4_h19v08_2015121-2018361_002-modfit-9km:
+  file: SMAPvsTWIx4_h19v08_2015121-2018361_002-modfit-9km.mp4
+  author: Thomas Gumbricht
+  caption: SMAP versus MODIS TWI soil moisture estimates for parts of Africa (MODIS tile h19v08) 2015 to 2018 (see text).
+  credit: null
+  source: null
+  width: 804
+  height: 804
+
+SMAPvsTWIx4_h19v09_2015121-2018361_002-modfit-9km:
+  file: SMAPvsTWIx4_h19v09_2015121-2018361_002-modfit-9km.mp4
+  author: Thomas Gumbricht
+  caption: SMAP versus MODIS TWI soil moisture estimates for parts of Africa (MODIS tile h19v09) 2015 to 2018 (see text).
+  credit: null
+  source: null
+  width: 804
+  height: 804
+
+SMAPvsTWIx4_h19v10_2015121-2018361_002-modfit-9km:
+  file: SMAPvsTWIx4_h19v10_2015121-2018361_002-modfit-9km.mp4
+  author: Thomas Gumbricht
+  caption: SMAP versus MODIS TWI soil moisture estimates for parts of Africa (MODIS tile h19v10) 2015 to 2018 (see text).
+  credit: null
+  source: null
+  width: 804
+  height: 804
+
+SMAPvsTWIx4_h19v11_2015121-2018361_002-modfit-9km:
+  file: SMAPvsTWIx4_h19v11_2015121-2018361_002-modfit-9km.mp4
+  author: Thomas Gumbricht
+  caption: SMAP versus MODIS TWI soil moisture estimates for parts of Africa (MODIS tile h19v11) 2015 to 2018 (see text).
+  credit: null
+  source: null
+  width: 804
+  height: 804
+
+SMAPvsTWIx4_h19v12_2015121-2018361_002-modfit-9km:
+  file: SMAPvsTWIx4_h19v12_2015121-2018361_002-modfit-9km.mp4
+  author: Thomas Gumbricht
+  caption: SMAP versus MODIS TWI soil moisture estimates for parts of Africa (MODIS tile h19v12) 2015 to 2018 (see text).
+  credit: null
+  source: null
+  width: 804
+  height: 804
+
+SMAPvsTWIx4_h20v08_2015121-2018361_002-modfit-9km:
+  file: SMAPvsTWIx4_h20v08_2015121-2018361_002-modfit-9km.mp4
+  author: Thomas Gumbricht
+  caption: SMAP versus MODIS TWI soil moisture estimates for parts of Africa (MODIS tile h20v08) 2015 to 2018 (see text).
+  credit: null
+  source: null
+  width: 804
+  height: 804
+
+SMAPvsTWIx4_h20v09_2015121-2018361_002-modfit-9km:
+  file: SMAPvsTWIx4_h20v09_2015121-2018361_002-modfit-9km.mp4
+  author: Thomas Gumbricht
+  caption: SMAP versus MODIS TWI soil moisture estimates for parts of Africa (MODIS tile h20v09) 2015 to 2018 (see text).
+  credit: null
+  source: null
+  width: 804
+  height: 804
+
+SMAPvsTWIx4_h20v10_2015121-2018361_002-modfit-9km:
+  file: SMAPvsTWIx4_h20v10_2015121-2018361_002-modfit-9km.mp4
+  author: Thomas Gumbricht
+  caption: SMAP versus MODIS TWI soil moisture estimates for parts of Africa (MODIS tile h20v10) 2015 to 2018 (see text).
+  credit: null
+  source: null
+  width: 804
+  height: 804
+
+SMAPvsTWIx4_h20v11_2015121-2018361_002-modfit-9km:
+  file: SMAPvsTWIx4_h20v11_2015121-2018361_002-modfit-9km.mp4
+  author: Thomas Gumbricht
+  caption: SMAP versus MODIS TWI soil moisture estimates for parts of Africa (MODIS tile h20v11) 2015 to 2018 (see text).
+  credit: null
+  source: null
+  width: 804
+  height: 804
+
+SMAPvsTWIx4_h20v12_2015121-2018361_002-modfit-9km:
+  file: SMAPvsTWIx4_h20v12_2015121-2018361_002-modfit-9km.mp4
+  author: Thomas Gumbricht
+  caption: SMAP versus MODIS TWI soil moisture estimates for parts of Africa (MODIS tile h20v12) 2015 to 2018 (see text).
+  credit: null
+  source: null
+  width: 804
+  height: 804
+
+SMAPvsTWIx4_h21v08_2015121-2018361_002-modfit-9km:
+  file: SMAPvsTWIx4_h21v08_2015121-2018361_002-modfit-9km.mp4
+  author: Thomas Gumbricht
+  caption: SMAP versus MODIS TWI soil moisture estimates for parts of Africa (MODIS tile h21v08) 2015 to 2018 (see text).
+  credit: null
+  source: null
+  width: 804
+  height: 804
+
+SMAPvsTWIx4_h21v09_2015121-2018361_002-modfit-9km:
+  file: SMAPvsTWIx4_h21v09_2015121-2018361_002-modfit-9km.mp4
+  author: Thomas Gumbricht
+  caption: SMAP versus MODIS TWI soil moisture estimates for parts of Africa (MODIS tile h21v09) 2015 to 2018 (see text).
+  credit: null
+  source: null
+  width: 804
+  height: 804
+
+SMAPvsTWIx4_h21v10_2015121-2018361_002-modfit-9km:
+  file: SMAPvsTWIx4_h21v10_2015121-2018361_002-modfit-9km.mp4
+  author: Thomas Gumbricht
+  caption: SMAP versus MODIS TWI soil moisture estimates for parts of Africa (MODIS tile h21v10) 2015 to 2018 (see text).
+  credit: null
+  source: null
+  width: 804
+  height: 804
+
+SMAPvsTWIx4_h21v11_2015121-2018361_002-modfit-9km:
+  file: SMAPvsTWIx4_h21v11_2015121-2018361_002-modfit-9km.mp4
+  author: Thomas Gumbricht
+  caption: SMAP versus MODIS TWI soil moisture estimates for parts of Africa (MODIS tile h21v11) 2015 to 2018 (see text).
+  credit: null
+  source: null
+  width: 804
+  height: 804
+
+SMAPvsTWIx4_h22v08_2015121-2018361_002-modfit-9km:
+  file: SMAPvsTWIx4_h22v08_2015121-2018361_002-modfit-9km.mp4
+  author: Thomas Gumbricht
+  caption: SMAP versus MODIS TWI soil moisture estimates for parts of Africa (MODIS tile h22v08) 2015 to 2018 (see text).
+  credit: null
+  source: null
+  width: 804
+  height: 804
+
+SMAPvsTWIx4_h22v09_2015121-2018361_002-modfit-9km:
+  file: SMAPvsTWIx4_h22v09_2015121-2018361_002-modfit-9km.mp4
+  author: Thomas Gumbricht
+  caption: SMAP versus MODIS TWI soil moisture estimates for parts of Africa (MODIS tile h22v09) 2015 to 2018 (see text).
+  credit: null
+  source: null
+  width: 804
+  height: 804
+
+SMAPvsTWIx4_h23v08_2015121-2018361_002-modfit-9km:
+  file: SMAPvsTWIx4_h23v08_2015121-2018361_002-modfit-9km.mp4
+  author: Thomas Gumbricht
+  caption: SMAP versus MODIS TWI soil moisture estimates for parts of Africa (MODIS tile h23v08) 2015 to 2018 (see text).
+  credit: null
+  source: null
+  width: 804
+  height: 804
+
+SMAPvsTWIx4_h23v09_2015121-2018361_002-modfit-9km:
+  file: SMAPvsTWIx4_h23v09_2015121-2018361_002-modfit-9km.mp4
+  author: Thomas Gumbricht
+  caption: SMAP versus MODIS TWI soil moisture estimates for parts of Africa (MODIS tile h23v09) 2015 to 2018 (see text).
+  credit: null
+  source: null
+  width: 804
+  height: 804
+
+SMAPvsTWIx4_h23v10_2015121-2018361_002-modfit-9km:
+  file: SMAPvsTWIx4_h23v10_2015121-2018361_002-modfit-9km.mp4
+  author: Thomas Gumbricht
+  caption: SMAP versus MODIS TWI soil moisture estimates for parts of Africa (MODIS tile h23v10) 2015 to 2018 (see text).
+  credit: null
+  source: null
+  width: 804
+  height: 804

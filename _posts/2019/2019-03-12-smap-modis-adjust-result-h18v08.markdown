@@ -1,9 +1,9 @@
 ---
 layout: post
-title: MODIS TWI assimilated to SMAP - h20v10
+title: MODIS TWI assimilated to SMAP - h18v08
 modified: '2019-03-12 20:17'
 categories: tileassim
-excerpt: Movie result for assimilation of MODIS TWI to SMAP for tile h20v10.
+excerpt: Movie result for assimilation of MODIS TWI to SMAP for tile h18v08.
 tags:
   - MODIS
   - SMAP
@@ -11,12 +11,12 @@ tags:
   - MCD43A4
   - Sub Saharan Africa
   - Process chain
-  - h20v10
+  - h18v08
 image: avg-trmm-3b43v7-precip_3B43_trmm_2001-2016_A
 date: '2019-03-12 20:17'
 comments: true
 share: true
-movie1: SMAPvsTWIx4_h20v10_2015121-2018361_002-modfit-9km
+movie1: SMAPvsTWIx4_h18v08_2015121-2018361_002-modfit-9km
 ---
 <script src="https://karttur.github.io/common/assets/js/karttur/togglediv.js"></script>
 

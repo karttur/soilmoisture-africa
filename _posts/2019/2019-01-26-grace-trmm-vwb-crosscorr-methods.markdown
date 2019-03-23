@@ -24,15 +24,15 @@ TRMM-GRACE-0960_movieclock_M: TRMM-GRACE-0960_movieclock_M
 ---
 <script src="https://karttur.github.io/common/assets/js/karttur/togglediv.js"></script>
 
-This post outlines a process chain for comparing the variations between rainfall and Vertical Water Balance on the one hand and the Earth´s land water content on the other. The results are presented in the [next](../grace-results/) post.
+This post outlines a process chain for comparing the variations between rainfall and Vertical Water Balance (VWB) on the one hand and the Earth´s land water content on the other. The results are presented in the [next](../grace-results/) post.
 
 # Prerequisites
 
-To follow the processing steps in this post you must set up a [Spatial Data Integrated Development Environment (SPIDE)](https://karttur.github.io/setup-ide/), download and install [Karttur's GeoImagine Framework](https://karttur.github.io/geoimagine/blog/blog-import-project-eclipse/) from Github. You must also have processing of [Tropical Rainfall Measurement Mission (TRMM) rainfall](../trmm-method), the [VWB](../vwb-method), and the [equivalent water depth from the Gravity Recovery and Climate Experiment (GRACE)](../grace-method), as described in earlier posts of this project.
+To follow the processing steps in this post you must set up a [Spatial Data Integrated Development Environment (SPIDE)](https://karttur.github.io/setup-ide/), download and install [Karttur's GeoImagine Framework](https://karttur.github.io/geoimagine/blog/blog-import-project-eclipse/) from Github. You must also have completed the processing of [Tropical Rainfall Measurement Mission (TRMM) rainfall](../trmm-methods), the [VWB](../vwb-methods), and the [equivalent water depth from the Gravity Recovery and Climate Experiment (GRACE)](../grace-methods), as described in earlier posts of this project.
 
 # Drivers of Earth's water storage
 
-In the water cycle, precipitation is the ultimate source for the water content in land areas. Not all precipitation that falls contributes towards filling the Earth's Water content.
+In the water cycle, precipitation is the ultimate source for the water content in land areas. Not all precipitation that falls contributes towards filling the Earth's water content.
 A fraction of the precipitated water is directly transferred back to the atmosphere by evapotranspiration. Theoretically the Vertical Water Balance (VWB) should thus be a better predictor for the variations in the equivalent water pillar depth compared to gross precipitation.
 
 In this section, the correlation between precipitation and VWB as drivers (masters) and the equivalent water pillar as a slave is tested using graphics and local (per cell) cross correlation. The correlations ignore the redistribution of water over land from upstream to downstream.
@@ -46,7 +46,7 @@ The principal steps for creating estimations, maps and animations relating water
 - Mosaic
 - Export media
 
-In the Framework a process chaincan be built as a series of calls to xml coded instructions. This section contains the calls and the remaining parts of the post details each called xml. As noted above, the results are available in the [next](../grace-trmm-vwb-crosscorr-results) post.
+In the Framework a process chain can be built as a series of calls to xml coded instructions. This section contains the calls and the remaining parts of the post details each called xml. As noted above, the results are available in the [next](../grace-trmm-vwb-crosscorr-results) post.
 
 <button id= "toggleProcessChain" onclick="hiddencode('ProcessChain')">Hide/Show AfricaSubSahara_process_GRACE.txt</button>
 
@@ -161,7 +161,7 @@ AfricaSubSahara_VWB-GRACE-0925-ExporttoByte_layer-x-corr_2003-2016.xml
 
 ## Overlay comparison
 
-As part of the processing of [TRMM rainfall](../trmm-method), [VWB](../vwb-method) and [GRACE equivalent water pillar depth](..(grace-method)) the absolute changes of each has already been calculated. Here, a special overlay process is applied comparing two overlapping layers depicting changes or trends. The overlay identifies the congruence between the two change layers in 9 classes:
+As part of the processing of [TRMM rainfall](../trmm-methods), [VWB](../vwb-methods) and [GRACE equivalent water pillar depth](..(grace-methods)) the absolute changes of each has already been calculated. Here, a special overlay process is applied comparing two overlapping layers depicting changes or trends. The overlay identifies the congruence between the two change layers in 9 classes:
 
 ||           |                                  |      1st layer      |                 |
 ||           |           Increase                       |      No change      |     Decrease            |

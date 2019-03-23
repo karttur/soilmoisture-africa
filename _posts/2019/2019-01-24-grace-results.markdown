@@ -82,7 +82,7 @@ The GRACE equivalent water pillar depth statistics and trends are calculated fro
 
   <a href="{{ site.commonurl }}/images/{{ site.data.images[page.fig3b].file }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.fig3b].file }}" alt="image"></a>
 
-	<figcaption>Estimated absolute changes in GRACE equivalnet water pillar depth 2003 to 2016: the left panel shows the change for all regions, the right only changes where the Mann-Kendall test indicates significant changes (p<0.05).  </figcaption>
+	<figcaption>Estimated absolute changes in GRACE equivalent water pillar depth 2003 to 2016: the left panel shows the change for all regions, the right only changes where the Mann-Kendall test indicates significant changes (p<0.05).  </figcaption>
 </figure>
 
 Note how the estimates of the Theil-Sen 95 % confidence level fits well with the map of significant changes as estimated from the Mann-Kendall test. Regions that show a negative (positive) trend at the 95 % upper (lower) confidence interval of the TS are also indicated as areas with significant negative (positive) trend using the MK test.

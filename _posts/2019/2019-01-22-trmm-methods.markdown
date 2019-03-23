@@ -44,7 +44,7 @@ To follow the process steps in this post you must set up a [Spatial Data Integra
 
 # TRMM
 
-The Tropical Rainfall Measurement Mission (TRMM) ran for 17 years, from 1998 to 2015 (the radar ceased to function already in October 2014). The monthly precipitation product, [TRMM 3B43](https://mirador.gsfc.nasa.gov/collections/TRMM_3B43__007.shtml) developed from TRMM also makes use of other satellite borne precipitation estimates as well as ground based measurements. The product thus continues, despite that the TRMM instrument is no longer operational.
+The Tropical Rainfall Measurement Mission (TRMM) ran for 17 years, from 1998 to 2017 (the radar ceased to function already in October 2014). The monthly precipitation product, [TRMM 3B43](https://mirador.gsfc.nasa.gov/collections/TRMM_3B43__007.shtml) developed from TRMM also makes use of other satellite borne precipitation estimates as well as ground based measurements. The product thus continues, despite that the TRMM instrument is no longer operational.
 
 # Process chain
 
@@ -142,10 +142,14 @@ In this project the dominating tile system is the MODIS SIN grid dividing the ea
 
 ### Tile monthly TRMM to region
 
+Process: [tileRegionToModisAncillary](https://karttur.github.io/geoimagine/subprocess/subproc-tileRegionToModisAncillary/)
+
 {% capture foo %}{{page.TRMM-0160_tile_M}}{% endcapture %}
 {% include xml/AfricaSubSahara_TRMM-0160_tile_M.html foo=foo %}
 
 ### Tile annual TRMM to region
+
+Process: [tileRegionToModisAncillary](https://karttur.github.io/geoimagine/subprocess/subproc-tileRegionToModisAncillary/)
 
 {% capture foo %}{{page.TRMM-0161_tile_A}}{% endcapture %}
 {% include xml/AfricaSubSahara_TRMM-0161_tile_A.html foo=foo %}
@@ -158,12 +162,13 @@ In the process chain used here, the aggregation of monthly to annual rainfall wa
 
 The annual trends are estimated using two methods, ordinary least square (OLS) regression, and a Mann-Kendall (MK) test together with a Theil-Sen regression. Also the period mean and standard deviations are calculated. These calculations are done for two different periods, 1998 - 2017 and 2003 - 2016. The longer period includes all years with complete coverage of TRMM data. The shorter period corresponds to the availability of data from the [Gravity Recovery And Climate Experiment (GRACE)](https://grace.jpl.nasa.gov) mission. The latter data is a direct estimate of the Earth's water reservoirs over land.
 
+Process: [trendtsmodis](https://karttur.github.io/geoimagine/subprocess/subproc-trendtsmodis/)
+
 #### 1998-2017
 
 The complete TRMM time series is analysed at a spatial scale corresponding to the resolution of the original data (approximately 30 km).
 
 {% capture foo %}{{page.TRMM-0310_trend_A_1998-2017}}{% endcapture %}
-
 {% include xml/AfricaSubSahara_TRMM-0310_trend_A_1998-2017.html foo=foo %}
 
 #### 2013-2016
@@ -171,23 +176,22 @@ The complete TRMM time series is analysed at a spatial scale corresponding to th
 The TRMM time series corresponding to the available GRACE data is processed at the 1 degree spatial scale of the GRACE data  (approximately 111 km).
 
 {% capture foo %}{{page.TRMM-0310_trend_A_2003-2016}}{% endcapture %}
-
 {% include xml/AfricaSubSahara_TRMM-0310_trend_A_2003-2016.html foo=foo %}
 
 ## Changes and significant trends
 
 Regions with significant negative (precipitation decrease) or positive (increase) are calculated using the MK scores and with the strength of significant trends captured as the slope and absolute change in precipitation as estimated from the median Theil-Sen regression. Again the analysis covers two different periods, representing the complete TRMM time series (1998-2017) and the overlap with GRACE data (2003-2016). The former period is in a spatial resolution resembling the original TRMM data while the latter in the more coarse resolution of the GRACE data. The latter allows direct overlay with GRACE data as described in other posts belonging to this project.
 
+Process: [signiftrendsmodis](https://karttur.github.io/geoimagine/subprocess/subproc-signiftrendsmodis/)
+
 #### 1998-2017
 
 {% capture foo %}{{page.TRMM-0320_changes_A_1998-2017}}{% endcapture %}
-
 {% include xml/AfricaSubSahara_TRMM-0320_changes_A_1998-2017.html foo=foo %}
 
 #### 2013-2016
 
 {% capture foo %}{{page.TRMM-0320_changes_A_2003-2016}}{% endcapture %}
-
 {% include xml/AfricaSubSahara_TRMM-0320_changes_A_2003-2016.html foo=foo %}
 
 ### Cross correlation climate indexes and TRMM
@@ -198,20 +202,22 @@ Regions with significant negative (precipitation decrease) or positive (increase
 
 The processes here generate maps of the correlations (expressed as the Pearson number) and the lag (expressed as number of months) between different climate index and the local rainfall. To test the stability of the cross correlation using different smoothing algorithms and filter lengths, five different parameterizations are tested in the xml below.
 
- {% capture foo %}{{page.TRMM-0380_index-x-corr_M}}{% endcapture %}
+Process: [indexcrosstrendtsmodis](https://karttur.github.io/geoimagine/subprocess/subproc-indexcrosstrendtsmodis/)
 
+ {% capture foo %}{{page.TRMM-0380_index-x-corr_M}}{% endcapture %}
  {% include xml/AfricaSubSahara_TRMM-0380_index-x-corr_M.html foo=foo %}
 
 ## Mosaic
 
 In this projects, the mosaicking is only done for the exports in the next step. In the mosaic process, the tiles are first concatenated and then cut to the actual coordinates of the defining region. Cell values and data type remain the same, but the data can be reprojected on the fly.
 
+Process: [MosaicModis](https://karttur.github.io/geoimagine/subprocess/subproc-MosaicModis/)
+
 ### Mosaic monthly TRMM
 
 The monthly mosaics are primarily used for creating the movies of the rainfall dynamics.
 
 {% capture foo %}{{page.TRMM-0610_mosaic_M}}{% endcapture %}
-
 {% include xml/AfricaSubSahara_TRMM-0610_mosaic_M.html foo=foo %}
 
 ### Mosaic climate Index vs TRMM cross correlation
@@ -242,12 +248,13 @@ The annual trends were calculated for two different periods (see above). The sho
 
 The main reason for exporting the mosaicked layer is to allow visualization of both the data and the results.
 
+Process: [exporttobytemodisRegionToRegion](https://karttur.github.io/geoimagine/subprocess/subproc-exporttobytemodisRegionToRegion/)
+
 ### Export monthly TRMM mosaics
 
 The monthly images of the precipitation are exported in order to use each date as a frame in animations (movies).
 
 {% capture foo %}{{page.TRMM-0900_ExporttoByte_M}}{% endcapture %}
-
 {% include xml/AfricaSubSahara_TRMM-0900_ExporttoByte_M.html foo=foo %}
 
 ### Export TRMM annual trends
@@ -257,19 +264,16 @@ The annual trends were calculated for two different periods (see above). The sho
 #### 1998-2017
 
 {% capture foo %}{{page.TRMM-0630_mosaic_timespanA_1998-2017}}{% endcapture %}
-
 {% include xml/AfricaSubSahara_TRMM-0630_mosaic_timespanA_1998-2017.html foo=foo %}
 
 #### 2003-2016
 
 {% capture foo %}{{page.TRMM-0630_mosaic_timespanA_2003-2016}}{% endcapture %}
-
 {% include xml/AfricaSubSahara_TRMM-0630_mosaic_timespanA_2003-2016.html foo=foo %}
 
 #### Export Climate Index vs TRMM Cross correlation
 
 {% capture foo %}{{page.TRMM-0920_ExporttoByte_crosscorr}}{% endcapture %}
-
 {% include xml/AfricaSubSahara_TRMM-0920_ExporttoByte_crosscorr.html foo=foo %}
 
 ### Movies
@@ -280,14 +284,16 @@ The movie creation requires that the command line applications [ImageMagick](htt
 
 #### Create TRMM movieframes
 
-{% capture foo %}{{page.TRMM-0950_movieframes_M}}{% endcapture %}
+Process: [movieframeModisRegionToRegion](https://karttur.github.io/geoimagine/subprocess/subproc-movieframeModisRegionToRegion/)
 
+{% capture foo %}{{page.TRMM-0950_movieframes_M}}{% endcapture %}
 {% include xml/AfricaSubSahara_TRMM-0950_movieframes_M.html foo=foo %}
 
 #### Create TRMM movieclock and movie script
 
-{% capture foo %}{{page.TRMM-0960_movieclock_M}}{% endcapture %}
+Process: [movieclockModisRegionToRegion](https://karttur.github.io/geoimagine/subprocess/subproc-movieclockModisRegionToRegion/)
 
+{% capture foo %}{{page.TRMM-0960_movieclock_M}}{% endcapture %}
 {% include xml/AfricaSubSahara_TRMM-0960_movieclock_M.html foo=foo %}
 
 __To view the maps and movies created in this posted, click the <span class='button'>Next</span> button below__.
