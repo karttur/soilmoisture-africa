@@ -1,0 +1,480 @@
+{% capture foo %}{{page.AfricaSubSahara_GRACE-0960_movieclock_M}}{% endcapture %}
+{% include xml/AfricaSubSahara_GRACE-0960_movieclock_M.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_GRACE-0900_ExporttoByte_M}}{% endcapture %}
+{% include xml/AfricaSubSahara_GRACE-0900_ExporttoByte_M.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_MODIS-SMAP-0950_movieframes-tiles_16D_9km}}{% endcapture %}
+{% include xml/AfricaSubSahara_MODIS-SMAP-0950_movieframes-tiles_16D_9km.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_MODIS-0170_resample-2-SMAP_16D}}{% endcapture %}
+{% include xml/AfricaSubSahara_MODIS-0170_resample-2-SMAP_16D.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara042_TRMM-indexcrosscorrelate_M_v80}}{% endcapture %}
+{% include xml/AfricaSubSahara042_TRMM-indexcrosscorrelate_M_v80.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_TRMM-0980_archive-zip_M_1998-2017}}{% endcapture %}
+{% include xml/AfricaSubSahara_TRMM-0980_archive-zip_M_1998-2017.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_VWB-GRACE-0630_mosaic_trendcomp_2003-2016}}{% endcapture %}
+{% include xml/AfricaSubSahara_VWB-GRACE-0630_mosaic_trendcomp_2003-2016.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara050_VWB-GRACE-ExporttoByte_crosscorr}}{% endcapture %}
+{% include xml/AfricaSubSahara050_VWB-GRACE-ExporttoByte_crosscorr.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_MODIS-SMAP-0951_movieframes-append-tiles_16D_9km}}{% endcapture %}
+{% include xml/AfricaSubSahara_MODIS-SMAP-0951_movieframes-append-tiles_16D_9km.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_MODIS-0190_updatedb_twi-assim-a}}{% endcapture %}
+{% include xml/AfricaSubSahara_MODIS-0190_updatedb_twi-assim-a.html foo=foo %}
+
+{% capture foo %}{{page.modis-transform_v80}}{% endcapture %}
+{% include xml/modis-transform_v80.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_MODIS-0955_movie_h20v11_16D}}{% endcapture %}
+{% include xml/AfricaSubSahara_MODIS-0955_movie_h20v11_16D.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_TRMM-0630_mosaic_timespanA_2003-2016}}{% endcapture %}
+{% include xml/AfricaSubSahara_TRMM-0630_mosaic_timespanA_2003-2016.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_VWB-GRACE-0925-ExporttoByte_layer-x-corr_2003-2016}}{% endcapture %}
+{% include xml/AfricaSubSahara_VWB-GRACE-0925-ExporttoByte_layer-x-corr_2003-2016.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_TRMM-0620_mosaic_index-x-corr_M}}{% endcapture %}
+{% include xml/AfricaSubSahara_TRMM-0620_mosaic_index-x-corr_M.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara021_TRMM-resample-2-annual}}{% endcapture %}
+{% include xml/AfricaSubSahara021_TRMM-resample-2-annual.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_VWB-GRACE-0370_dualtrendcomp_2003-2016}}{% endcapture %}
+{% include xml/AfricaSubSahara_VWB-GRACE-0370_dualtrendcomp_2003-2016.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_MODIS-0955_movie_h20v08_16D}}{% endcapture %}
+{% include xml/AfricaSubSahara_MODIS-0955_movie_h20v08_16D.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_MODIS-0955_movie_h17v08_16D}}{% endcapture %}
+{% include xml/AfricaSubSahara_MODIS-0955_movie_h17v08_16D.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_MODIS-0120_download_2018-present}}{% endcapture %}
+{% include xml/AfricaSubSahara_MODIS-0120_download_2018-present.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_GRACE-0980_arcihive-zip_M}}{% endcapture %}
+{% include xml/AfricaSubSahara_GRACE-0980_arcihive-zip_M.html foo=foo %}
+
+{% capture foo %}{{page.MODIS-0110_search-todb_2001-present}}{% endcapture %}
+{% include xml/MODIS-0110_search-todb_2001-present.html foo=foo %}
+
+{% capture foo %}{{page.TRMM000_createscaling_v80}}{% endcapture %}
+{% include xml/TRMM000_createscaling_v80.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_TRMM-0320_changes_A_2003-2016}}{% endcapture %}
+{% include xml/AfricaSubSahara_TRMM-0320_changes_A_2003-2016.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_TRMM-GRACE-0960_movieclock_M}}{% endcapture %}
+{% include xml/AfricaSubSahara_TRMM-GRACE-0960_movieclock_M.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara056_GRACE+VWB-movieclock_M}}{% endcapture %}
+{% include xml/AfricaSubSahara056_GRACE+VWB-movieclock_M.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_MODIS-0955_movie_h20v09_16D}}{% endcapture %}
+{% include xml/AfricaSubSahara_MODIS-0955_movie_h20v09_16D.html foo=foo %}
+
+{% capture foo %}{{page.modis_checktiles_v80}}{% endcapture %}
+{% include xml/modis_checktiles_v80.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_VWB-0980_archive-zip_timespanA_1998-2017}}{% endcapture %}
+{% include xml/AfricaSubSahara_VWB-0980_archive-zip_timespanA_1998-2017.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_VWB-0980_archive-zip_A}}{% endcapture %}
+{% include xml/AfricaSubSahara_VWB-0980_archive-zip_A.html foo=foo %}
+
+{% capture foo %}{{page.modis_checktiles_downloaded_v80}}{% endcapture %}
+{% include xml/modis_checktiles_downloaded_v80.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_VWB-0910_ExporttoByte_timespanA_2003-2016}}{% endcapture %}
+{% include xml/AfricaSubSahara_VWB-0910_ExporttoByte_timespanA_2003-2016.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_TRMM-0980_archive-zip_A-stats_1998-2017}}{% endcapture %}
+{% include xml/AfricaSubSahara_TRMM-0980_archive-zip_A-stats_1998-2017.html foo=foo %}
+
+{% capture foo %}{{page.add_user_project-region_africa-sub-sahara}}{% endcapture %}
+{% include xml/add_user_project-region_africa-sub-sahara.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_TRMM-0310_trend_A_2003-2016}}{% endcapture %}
+{% include xml/AfricaSubSahara_TRMM-0310_trend_A_2003-2016.html foo=foo %}
+
+{% capture foo %}{{page.modis-search_data-pool}}{% endcapture %}
+{% include xml/modis-search_data-pool.html foo=foo %}
+
+{% capture foo %}{{page.MODIS-0130_explodetiles}}{% endcapture %}
+{% include xml/MODIS-0130_explodetiles.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_MODIS-0955_movie_h20v10_16D}}{% endcapture %}
+{% include xml/AfricaSubSahara_MODIS-0955_movie_h20v10_16D.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_GRACE-0610_mosaic_M}}{% endcapture %}
+{% include xml/AfricaSubSahara_GRACE-0610_mosaic_M.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_VWB-0630_mosaic_timespanA_1998-2017}}{% endcapture %}
+{% include xml/AfricaSubSahara_VWB-0630_mosaic_timespanA_1998-2017.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_VWB-0320_changes_A_1998-2017}}{% endcapture %}
+{% include xml/AfricaSubSahara_VWB-0320_changes_A_1998-2017.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_VWB-0160_tile_M}}{% endcapture %}
+{% include xml/AfricaSubSahara_VWB-0160_tile_M.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_TRMM-0630_mosaic_timespanA_1998-2017}}{% endcapture %}
+{% include xml/AfricaSubSahara_TRMM-0630_mosaic_timespanA_1998-2017.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_MODIS-SMAP-0960_movielock-append-tiles_16D_9km}}{% endcapture %}
+{% include xml/AfricaSubSahara_MODIS-SMAP-0960_movielock-append-tiles_16D_9km.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_MODIS-0320_TWI-extract-season_16D}}{% endcapture %}
+{% include xml/AfricaSubSahara_MODIS-0320_TWI-extract-season_16D.html foo=foo %}
+
+{% capture foo %}{{page.FAOrefET-0190_udatedb}}{% endcapture %}
+{% include xml/FAOrefET-0190_udatedb.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_MODIS-0955_movie_h18v08_16D}}{% endcapture %}
+{% include xml/AfricaSubSahara_MODIS-0955_movie_h18v08_16D.html foo=foo %}
+
+{% capture foo %}{{page.MODIS-0100_search-datapool_2001-present}}{% endcapture %}
+{% include xml/MODIS-0100_search-datapool_2001-present.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_TRMM-0980_archive_crosscorr}}{% endcapture %}
+{% include xml/AfricaSubSahara_TRMM-0980_archive_crosscorr.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_MODIS-0955_movie_h20v10_16Dassim}}{% endcapture %}
+{% include xml/AfricaSubSahara_MODIS-0955_movie_h20v10_16Dassim.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_VWB-0610_mosaic_M}}{% endcapture %}
+{% include xml/AfricaSubSahara_VWB-0610_mosaic_M.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_TRMM-0610_mosaic_M}}{% endcapture %}
+{% include xml/AfricaSubSahara_TRMM-0610_mosaic_M.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_MODIS-0955_movie_h22v08_16D}}{% endcapture %}
+{% include xml/AfricaSubSahara_MODIS-0955_movie_h22v08_16D.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_GRACE-0910_ExporttoByte_timespanA_2003-2016}}{% endcapture %}
+{% include xml/AfricaSubSahara_GRACE-0910_ExporttoByte_timespanA_2003-2016.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_TRMM-0980_archive-zip_M_2003-2016}}{% endcapture %}
+{% include xml/AfricaSubSahara_TRMM-0980_archive-zip_M_2003-2016.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_MODIS-0955_movie_h20v12_16D}}{% endcapture %}
+{% include xml/AfricaSubSahara_MODIS-0955_movie_h20v12_16D.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara041_TRMM-autocorrelate_M}}{% endcapture %}
+{% include xml/AfricaSubSahara041_TRMM-autocorrelate_M.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_MODIS-0290_resample-2-M}}{% endcapture %}
+{% include xml/AfricaSubSahara_MODIS-0290_resample-2-M.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_VWB-GRACE-0930-ExporttoByte_trendcomp}}{% endcapture %}
+{% include xml/AfricaSubSahara_VWB-GRACE-0930-ExporttoByte_trendcomp.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_VWB-0910_ExporttoByte_timespanA_1998-2017}}{% endcapture %}
+{% include xml/AfricaSubSahara_VWB-0910_ExporttoByte_timespanA_1998-2017.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_MODIS-0955_movie_h22v09_16D}}{% endcapture %}
+{% include xml/AfricaSubSahara_MODIS-0955_movie_h22v09_16D.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_VWB-GRACE-0385_layer-x-corr_2003-2016}}{% endcapture %}
+{% include xml/AfricaSubSahara_VWB-GRACE-0385_layer-x-corr_2003-2016.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_MODIS-0330_interpolseasn-fill-16D_2001-2018}}{% endcapture %}
+{% include xml/AfricaSubSahara_MODIS-0330_interpolseasn-fill-16D_2001-2018.html foo=foo %}
+
+{% capture foo %}{{page.VWB_scaling_auto+cross-corr}}{% endcapture %}
+{% include xml/VWB_scaling_auto+cross-corr.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_MODIS-0900_ExporttoByte_A}}{% endcapture %}
+{% include xml/AfricaSubSahara_MODIS-0900_ExporttoByte_A.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_MODIS-0951_tile-movieframes_16D}}{% endcapture %}
+{% include xml/AfricaSubSahara_MODIS-0951_tile-movieframes_16D.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_GRACE-0980_arcihive-zip_A-stats}}{% endcapture %}
+{% include xml/AfricaSubSahara_GRACE-0980_arcihive-zip_A-stats.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_TRMM-0980_archive-zip_A-stats_2003-2016}}{% endcapture %}
+{% include xml/AfricaSubSahara_TRMM-0980_archive-zip_A-stats_2003-2016.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_SMAP-0980_archive-zip_16D}}{% endcapture %}
+{% include xml/AfricaSubSahara_SMAP-0980_archive-zip_16D.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_SMAP-0960_movieclock_16D_9km}}{% endcapture %}
+{% include xml/AfricaSubSahara_SMAP-0960_movieclock_16D_9km.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_TRMM-0310_trend_A_1998-2017}}{% endcapture %}
+{% include xml/AfricaSubSahara_TRMM-0310_trend_A_1998-2017.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_VWB-0161_tile_A}}{% endcapture %}
+{% include xml/AfricaSubSahara_VWB-0161_tile_A.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_TRMM-0960_movieclock_M}}{% endcapture %}
+{% include xml/AfricaSubSahara_TRMM-0960_movieclock_M.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_VWB-0630_mosaic_timespanA_2003-2016}}{% endcapture %}
+{% include xml/AfricaSubSahara_VWB-0630_mosaic_timespanA_2003-2016.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_VWB-0320_changes_A_2003-2016}}{% endcapture %}
+{% include xml/AfricaSubSahara_VWB-0320_changes_A_2003-2016.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_MODIS-SMAP-0380_setassimilation_16D}}{% endcapture %}
+{% include xml/AfricaSubSahara_MODIS-SMAP-0380_setassimilation_16D.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_TRMM-GRACE-0370_dualtrendcomp_2003-2016}}{% endcapture %}
+{% include xml/AfricaSubSahara_TRMM-GRACE-0370_dualtrendcomp_2003-2016.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_TRMM-GRACE-0951_overlay-movieframes_M}}{% endcapture %}
+{% include xml/AfricaSubSahara_TRMM-GRACE-0951_overlay-movieframes_M.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_TRMM-0320_changes_A_1998-2017}}{% endcapture %}
+{% include xml/AfricaSubSahara_TRMM-0320_changes_A_1998-2017.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_GRACE-0310_trend_A_2003-2016}}{% endcapture %}
+{% include xml/AfricaSubSahara_GRACE-0310_trend_A_2003-2016.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_MODIS-0955_movie_h18v09_16D}}{% endcapture %}
+{% include xml/AfricaSubSahara_MODIS-0955_movie_h18v09_16D.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_MODIS-0980_arcihive-zip_a}}{% endcapture %}
+{% include xml/AfricaSubSahara_MODIS-0980_arcihive-zip_a.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_GRACE-0160_tile_A}}{% endcapture %}
+{% include xml/AfricaSubSahara_GRACE-0160_tile_A.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_VWB-0980_archive-zip_timespanA_2003-2016}}{% endcapture %}
+{% include xml/AfricaSubSahara_VWB-0980_archive-zip_timespanA_2003-2016.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_SMAP-0950_movieframes-region_16D_9km}}{% endcapture %}
+{% include xml/AfricaSubSahara_SMAP-0950_movieframes-region_16D_9km.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_MODIS-SMAP-0900_ExporttoByte_16D_9km}}{% endcapture %}
+{% include xml/AfricaSubSahara_MODIS-SMAP-0900_ExporttoByte_16D_9km.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_GRACE-0160_tile_M}}{% endcapture %}
+{% include xml/AfricaSubSahara_GRACE-0160_tile_M.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_MODIS-0955_movie_h21v09_16D}}{% endcapture %}
+{% include xml/AfricaSubSahara_MODIS-0955_movie_h21v09_16D.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_MODIS-SMAP-0980_archive-zip_assimvars}}{% endcapture %}
+{% include xml/AfricaSubSahara_MODIS-SMAP-0980_archive-zip_assimvars.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_MODIS-0472_TWI-percent}}{% endcapture %}
+{% include xml/AfricaSubSahara_MODIS-0472_TWI-percent.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_TRMM-GRACE-0930-ExporttoByte_trendcomp}}{% endcapture %}
+{% include xml/AfricaSubSahara_TRMM-GRACE-0930-ExporttoByte_trendcomp.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_MODIS-0955_movie_h21v10_16D}}{% endcapture %}
+{% include xml/AfricaSubSahara_MODIS-0955_movie_h21v10_16D.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_TRMM-0380_index-x-corr_M}}{% endcapture %}
+{% include xml/AfricaSubSahara_TRMM-0380_index-x-corr_M.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_TRMM-GRACE-0625_mosaic_layer-x-corr_2003-2016}}{% endcapture %}
+{% include xml/AfricaSubSahara_TRMM-GRACE-0625_mosaic_layer-x-corr_2003-2016.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_TRMM-0161_tile_A}}{% endcapture %}
+{% include xml/AfricaSubSahara_TRMM-0161_tile_A.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_GRACE-0630_mosaic_timespanA_2003-2016}}{% endcapture %}
+{% include xml/AfricaSubSahara_GRACE-0630_mosaic_timespanA_2003-2016.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_TRMM-0910_ExporttoByte_timespanA_1998-2017}}{% endcapture %}
+{% include xml/AfricaSubSahara_TRMM-0910_ExporttoByte_timespanA_1998-2017.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_TRMM-0950_movieframes_M}}{% endcapture %}
+{% include xml/AfricaSubSahara_TRMM-0950_movieframes_M.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_MODIS-0900_ExporttoByte_16D}}{% endcapture %}
+{% include xml/AfricaSubSahara_MODIS-0900_ExporttoByte_16D.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_MODIS-0955_movie_h19v12_16D}}{% endcapture %}
+{% include xml/AfricaSubSahara_MODIS-0955_movie_h19v12_16D.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara042_VWB-GRACE-imagecrosscorrelate}}{% endcapture %}
+{% include xml/AfricaSubSahara042_VWB-GRACE-imagecrosscorrelate.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_TRMM-GRACE-0385_layer-x-corr_2003-2016}}{% endcapture %}
+{% include xml/AfricaSubSahara_TRMM-GRACE-0385_layer-x-corr_2003-2016.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_MODIS-0310_trend_A_2001-2017}}{% endcapture %}
+{% include xml/AfricaSubSahara_MODIS-0310_trend_A_2001-2017.html foo=foo %}
+
+{% capture foo %}{{page.MODIS-0001_createscaling}}{% endcapture %}
+{% include xml/MODIS-0001_createscaling.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_GRACE-0950_movieframes_M}}{% endcapture %}
+{% include xml/AfricaSubSahara_GRACE-0950_movieframes_M.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_SMAP-0160_tile_M}}{% endcapture %}
+{% include xml/AfricaSubSahara_SMAP-0160_tile_M.html foo=foo %}
+
+{% capture foo %}{{page.modis-search_todb}}{% endcapture %}
+{% include xml/modis-search_todb.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_VWB-0310_trend_A_1998-2017}}{% endcapture %}
+{% include xml/AfricaSubSahara_VWB-0310_trend_A_1998-2017.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_TRMM-0980_archive-zip_A_1998-2017}}{% endcapture %}
+{% include xml/AfricaSubSahara_TRMM-0980_archive-zip_A_1998-2017.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_MODIS-0955_movie_h21v11_16D}}{% endcapture %}
+{% include xml/AfricaSubSahara_MODIS-0955_movie_h21v11_16D.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_TRMM-GRACE-0925-ExporttoByte_layer-x-corr_2003-2016}}{% endcapture %}
+{% include xml/AfricaSubSahara_TRMM-GRACE-0925-ExporttoByte_layer-x-corr_2003-2016.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_MODIS-0290_resample-2-A}}{% endcapture %}
+{% include xml/AfricaSubSahara_MODIS-0290_resample-2-A.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_MODIS-SMAP-0980_zip-archive-seasons_16D_2015-2018}}{% endcapture %}
+{% include xml/AfricaSubSahara_MODIS-SMAP-0980_zip-archive-seasons_16D_2015-2018.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_VWB-0960_movieclock_M}}{% endcapture %}
+{% include xml/AfricaSubSahara_VWB-0960_movieclock_M.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_TRMM-0920_ExporttoByte_crosscorr}}{% endcapture %}
+{% include xml/AfricaSubSahara_TRMM-0920_ExporttoByte_crosscorr.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_VWB-0950_movieframes_M}}{% endcapture %}
+{% include xml/AfricaSubSahara_VWB-0950_movieframes_M.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_TRMM-0900_ExporttoByte_M}}{% endcapture %}
+{% include xml/AfricaSubSahara_TRMM-0900_ExporttoByte_M.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_SMAP-0980_archive-zip_M}}{% endcapture %}
+{% include xml/AfricaSubSahara_SMAP-0980_archive-zip_M.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara0230_mosaic_vwb-grace_crosscorr}}{% endcapture %}
+{% include xml/AfricaSubSahara0230_mosaic_vwb-grace_crosscorr.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_MODIS-0955_movie_h21v08_16D}}{% endcapture %}
+{% include xml/AfricaSubSahara_MODIS-0955_movie_h21v08_16D.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_MODIS-0955_movie_h16v08_16D}}{% endcapture %}
+{% include xml/AfricaSubSahara_MODIS-0955_movie_h16v08_16D.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_MODIS-0461_orthotrans}}{% endcapture %}
+{% include xml/AfricaSubSahara_MODIS-0461_orthotrans.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_MODIS-0471_fgbg-TWI}}{% endcapture %}
+{% include xml/AfricaSubSahara_MODIS-0471_fgbg-TWI.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_MODIS-0980_arcihive-zip_16D}}{% endcapture %}
+{% include xml/AfricaSubSahara_MODIS-0980_arcihive-zip_16D.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_MODIS-0955_movie_h19v10_16D}}{% endcapture %}
+{% include xml/AfricaSubSahara_MODIS-0955_movie_h19v10_16D.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_VWB-GRACE-0625_mosaic_layer-x-corr_2003-2016}}{% endcapture %}
+{% include xml/AfricaSubSahara_VWB-GRACE-0625_mosaic_layer-x-corr_2003-2016.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_MODIS-0320_changes_A_2001-2018}}{% endcapture %}
+{% include xml/AfricaSubSahara_MODIS-0320_changes_A_2001-2018.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_MODIS-SMAP-0390_assimilate_16D_9km}}{% endcapture %}
+{% include xml/AfricaSubSahara_MODIS-SMAP-0390_assimilate_16D_9km.html foo=foo %}
+
+{% capture foo %}{{page.SubSaharanAfrica_0001_createscaling}}{% endcapture %}
+{% include xml/SubSaharanAfrica_0001_createscaling.html foo=foo %}
+
+{% capture foo %}{{page.modis_checktiles_exploded_v80}}{% endcapture %}
+{% include xml/modis_checktiles_exploded_v80.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_TRMM-0910_ExporttoByte_timespanA_2003-2016}}{% endcapture %}
+{% include xml/AfricaSubSahara_TRMM-0910_ExporttoByte_timespanA_2003-2016.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_VWB-0900_ExporttoByte_M}}{% endcapture %}
+{% include xml/AfricaSubSahara_VWB-0900_ExporttoByte_M.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_TRMM-0160_tile_M}}{% endcapture %}
+{% include xml/AfricaSubSahara_TRMM-0160_tile_M.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_MOIDS-SMAP-0610_mosaic_16D_9km}}{% endcapture %}
+{% include xml/AfricaSubSahara_MOIDS-SMAP-0610_mosaic_16D_9km.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_MODIS-0955_movie_h19v09_16D}}{% endcapture %}
+{% include xml/AfricaSubSahara_MODIS-0955_movie_h19v09_16D.html foo=foo %}
+
+{% capture foo %}{{page.trendcomp_createpalettes}}{% endcapture %}
+{% include xml/trendcomp_createpalettes.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_SMAP-0170_resample-2-SMAP_16D}}{% endcapture %}
+{% include xml/AfricaSubSahara_SMAP-0170_resample-2-SMAP_16D.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_VWB-0980_archive-zip_M}}{% endcapture %}
+{% include xml/AfricaSubSahara_VWB-0980_archive-zip_M.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara-MODIS-SMAP-0385_layer-x-cross_16D}}{% endcapture %}
+{% include xml/AfricaSubSahara-MODIS-SMAP-0385_layer-x-cross_16D.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara0220_tile_grace2modis_timespanA}}{% endcapture %}
+{% include xml/AfricaSubSahara0220_tile_grace2modis_timespanA.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_GRACE-0161_tile_A}}{% endcapture %}
+{% include xml/AfricaSubSahara_GRACE-0161_tile_A.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_SMAP-0162_tile_16D}}{% endcapture %}
+{% include xml/AfricaSubSahara_SMAP-0162_tile_16D.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_MODIS-SMAP-0320_extract-seasons_16D_2015-2018}}{% endcapture %}
+{% include xml/AfricaSubSahara_MODIS-SMAP-0320_extract-seasons_16D_2015-2018.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_MODIS-0955_movie_h19v08_16D}}{% endcapture %}
+{% include xml/AfricaSubSahara_MODIS-0955_movie_h19v08_16D.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara056_GRACE+VWB-movieclock_M }}{% endcapture %}
+{% include xml/AfricaSubSahara056_GRACE+VWB-movieclock_M .html foo=foo %}
+
+{% capture foo %}{{page.MODIS-0100_downloaddatapool}}{% endcapture %}
+{% include xml/MODIS-0100_downloaddatapool.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_GRACE-0320_changes_A_2003-2016}}{% endcapture %}
+{% include xml/AfricaSubSahara_GRACE-0320_changes_A_2003-2016.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_MODIS-0190_updatedb_TWI-assimilated-A}}{% endcapture %}
+{% include xml/AfricaSubSahara_MODIS-0190_updatedb_TWI-assimilated-A.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_FAOrefET-0980_arcihive-zip_staticM}}{% endcapture %}
+{% include xml/AfricaSubSahara_FAOrefET-0980_arcihive-zip_staticM.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara055_GRACE+VWB-overlaymovieframes_M}}{% endcapture %}
+{% include xml/AfricaSubSahara055_GRACE+VWB-overlaymovieframes_M.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_GRACE-0980_arcihive-zip_A}}{% endcapture %}
+{% include xml/AfricaSubSahara_GRACE-0980_arcihive-zip_A.html foo=foo %}
+
+{% capture foo %}{{page.regions-modtiles_v80}}{% endcapture %}
+{% include xml/regions-modtiles_v80.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_MODIS-0955_movie_h19v11_16D}}{% endcapture %}
+{% include xml/AfricaSubSahara_MODIS-0955_movie_h19v11_16D.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_MODIS-SMAP-0392_assimilate_16D}}{% endcapture %}
+{% include xml/AfricaSubSahara_MODIS-SMAP-0392_assimilate_16D.html foo=foo %}
+
+{% capture foo %}{{page.createscaling_GRACE_v80}}{% endcapture %}
+{% include xml/createscaling_GRACE_v80.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_VWB-0310_trend_A_2003-2016}}{% endcapture %}
+{% include xml/AfricaSubSahara_VWB-0310_trend_A_2003-2016.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_FAOrefET-0160_tile_staticM}}{% endcapture %}
+{% include xml/AfricaSubSahara_FAOrefET-0160_tile_staticM.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_TRMM-0980_archive-zip_A_2003-2016}}{% endcapture %}
+{% include xml/AfricaSubSahara_TRMM-0980_archive-zip_A_2003-2016.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_TRMM-GRACE-0630_mosaic_trendcomp_2003-2016}}{% endcapture %}
+{% include xml/AfricaSubSahara_TRMM-GRACE-0630_mosaic_trendcomp_2003-2016.html foo=foo %}
+
+{% capture foo %}{{page.AfricaSubSahara_MODIS-0955_movie_h21v12_16D}}{% endcapture %}
+{% include xml/AfricaSubSahara_MODIS-0955_movie_h21v12_16D.html foo=foo %}
+

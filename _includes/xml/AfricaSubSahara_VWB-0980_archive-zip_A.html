@@ -1,0 +1,55 @@
+<button id= "toggle_{{foo}}" onclick="hiddencode('{{ foo }}')">Hide/Show {{ site.data.xml[foo].file }}</button>
+<div id="{{ foo }}" style="display:none">
+{% capture text-capture %}
+{% raw %}
+```
+<?xml version='1.0' encoding='utf-8'?>
+<africasubsahara>
+
+<userproj userid = 'karttur' projectid = 'karttur-africasubsahara' tractid= 'karttur-africasubsahara' siteid = '*' plotid = '*' system = 'modis'></userproj>
+<period startyear = "1998" endyear = "2017"  timestep='A'></period>
+
+<!-- Archive the annual VWB tiles in 30 km resolution -->
+<process processid = 'ArchiveModisRegionTiles' version = '1.3'>
+<overwrite>False</overwrite>
+<parameters></parameters>
+<srcpath volume = "africa" hdrfiletype='tif'></srcpath>
+<dstpath volume = "africa" hdrfiletype='zip'></dstpath>
+<srccomp>
+<trmm-fao-vwb id = 'layer1' source = "trmm-vwb" product = "3b43" folder = "vwb-A" band = "trmm-fao-vwb" prefix = "trmm-fao-vwb" suffix = "v7-f-m-A-30km">
+</trmm-fao-vwb>
+
+<trmm-fao-vwb-surplus id = 'layer2' source = "trmm-vwb" product = "3b43" folder = "vwb-A" band = "trmm-fao-vwb-surplus" prefix = "trmm-fao-vwb-surplus" suffix = "v7-f-m-A-30km">
+</trmm-fao-vwb-surplus>
+
+<trmm-fao-vwb-deficit id = 'layer3' source = "trmm-vwb" product = "3b43" folder = "vwb-A" band = "trmm-fao-vwb-deficit" prefix = "trmm-fao-vwb-deficit" suffix = "v7-f-m-A-30km">
+</trmm-fao-vwb-deficit>
+</srccomp>
+</process>
+
+<!-- Archive the annual VWB tiles in 1 deg resolution -->
+<process processid = 'ArchiveModisRegionTiles' version = '1.3'>
+<overwrite>False</overwrite>
+<parameters></parameters>
+<srcpath volume = "africa" hdrfiletype='tif'></srcpath>
+<dstpath volume = "africa" hdrfiletype='zip'></dstpath>
+<srccomp>
+<trmm-fao-vwb id = 'layer1' source = "trmm-vwb" product = "3b43" folder = "vwb-A" band = "trmm-fao-vwb" prefix = "trmm-fao-vwb" suffix = "v7-f-m-A-1deg">
+</trmm-fao-vwb>
+
+<trmm-fao-vwb-surplus id = 'layer2' source = "trmm-vwb" product = "3b43" folder = "vwb-A" band = "trmm-fao-vwb-surplus" prefix = "trmm-fao-vwb-surplus" suffix = "v7-f-m-A-1deg">
+</trmm-fao-vwb-surplus>
+
+<trmm-fao-vwb-deficit id = 'layer3' source = "trmm-vwb" product = "3b43" folder = "vwb-A" band = "trmm-fao-vwb-deficit" prefix = "trmm-fao-vwb-deficit" suffix = "v7-f-m-A-1deg">
+</trmm-fao-vwb-deficit>
+
+</srccomp>
+</process>
+
+
+</africasubsahara>
+```
+{% endraw %}
+{% endcapture %}
+{% include widgets/toggle-code.html  toggle-text=text-capture  %}
+</div>
